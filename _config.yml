@@ -11,10 +11,7 @@ author: Rohan D. Kadam
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Search: "Search"
 
 # --- Local development options ---
 
