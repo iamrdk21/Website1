@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Search"
+subtitle: 
 css: /css/Search.css
 ---
-
-
-# Search for what you want
 <div id="google-custom-search">
 <script>
   (function() {
