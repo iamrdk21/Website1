@@ -1,4 +1,4 @@
-name: Personal Website
+name: Beautiful Jekyll CI
 on: [push, pull_request]
 jobs:
   build:
