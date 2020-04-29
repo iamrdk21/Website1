@@ -19,6 +19,11 @@ bigimg:
 	  </h3>
 	  {% endif %}
     </a>
+	  <form action="/search.html" method="get">
+		<label for="search_box">Search</label>
+		<input type="text" id="search_box" name="query">
+		<input type="submit" value="search">
+	</form>
 
     <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
