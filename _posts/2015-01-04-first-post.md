@@ -8,7 +8,7 @@ This is my first post, how exciting!
   
 <head>
   <!-- add the button style & script -->
-  <link rel="stylesheet" href="applause-button.css" />
+  <link rel="stylesheet" href="css/applause-button.css" />
   <script src="js/applause-button.js"></script>
 </head>
 <body>
