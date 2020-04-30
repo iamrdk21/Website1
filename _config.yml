@@ -12,7 +12,7 @@ author: Rohan D. Kadam
 navbar-links:
   About Me: "aboutme"
   Search: "Search"
-  Tag Index: "tags.html"
+  Tag Index: "tags"
 
 # --- Local development options ---
 
