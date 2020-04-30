@@ -5,7 +5,7 @@ subtitle: Enter Keywords
 css: /css/Search.css
 ---
 
-### Use Google's Custom Search Engine to explore my blog
+### Use Google's Search Engine to explore my Blog
 
 <div id="google-custom-search">
 <script>
