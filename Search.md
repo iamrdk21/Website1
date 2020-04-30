@@ -24,5 +24,7 @@ css: /css/Search.css
 <gcse:searchresults></gcse:searchresults>
 -->
 <script async src="https://cse.google.com/cse.js?cx=003037785403425227493:tab9sattetg"></script>
-<div class="gcse-search"></div>
+<!--<div class="gcse-search"></div>-->
+<gcse:searchbox></gcse:searchbox>
+<gcse:searchresults></gcse:searchresults>
 </div>
