@@ -8,10 +8,9 @@ css: /css/Search.css
 ### Use Google's Custom Search Engine to explore my blog
 
 <div id="google-custom-search">
-<!--
 <script>
   (function() {
-    var cx = '006356838477834478456:wlqkkiamvtm';
+    var cx = '003037785403425227493:tab9sattetg';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -22,9 +21,8 @@ css: /css/Search.css
 </script>
 <gcse:searchbox></gcse:searchbox>
 <gcse:searchresults></gcse:searchresults>
--->
-<script async src="https://cse.google.com/cse.js?cx=003037785403425227493:tab9sattetg"></script>
-<!--<div class="gcse-search"></div>-->
+<!--<script async src="https://cse.google.com/cse.js?cx=003037785403425227493:tab9sattetg"></script>-->
+<!--<div class="gcse-search"></div>
 <gcse:searchbox></gcse:searchbox>
-<gcse:searchresults></gcse:searchresults>
+<gcse:searchresults></gcse:searchresults>-->
 </div>
