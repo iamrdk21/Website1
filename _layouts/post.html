@@ -33,6 +33,7 @@ layout: base
 
       <article role="main" class="blog-post">
         {{ content }}
+	{% include applause.html %}
       </article>
 
       {% if page.tags.size > 0 %}
@@ -47,10 +48,10 @@ layout: base
           {% endif %}
         </div>
       {% endif %}
-
-      {% if page.social-share %}
+	
+     <!-- {% if page.social-share %}
         {% include social-share.html %}
-      {% endif %}
+      {% endif %}-->
 
       <ul class="pager blog-pager">
         {% if page.previous.url %}
@@ -65,8 +66,7 @@ layout: base
         {% endif %}
       </ul>
 	  {% include comments.html %}
-	  {% include social.html %} 
-	  {% include applause.html %}
+	  {% include social.html %} 	  
     </div>
   </div>
 </div>
