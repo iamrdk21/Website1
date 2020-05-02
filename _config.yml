@@ -55,6 +55,15 @@ social-network-links:
 
 # --- General options --- #
 
+#--Dark Mode--#
+hydejack:
+  dark_mode:
+    dynamic: true
+    sunrise: 6
+    sunset:  18
+    icon:    true
+    always:  false
+
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
