@@ -48,10 +48,12 @@ layout: base
         </div>
       {% endif %}
 	
-     {% if page.social-share %}
+      {% if page.social-share %}
         {% include social.html %} 
       {% endif %} 
-	{% include applause.html %}
+	    <div class="row">
+		   {% include applause.html %}
+	    </div>
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
