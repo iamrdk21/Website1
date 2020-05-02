@@ -53,13 +53,12 @@ bigimg:
 }
 </style>
 
-<button onlclick="myFunction()">
-<label class="switch switch-light">
+<label class="switch switch-light" onclick="myFunction()">
 	<input class="switch-input" type="checkbox" />
 	<span class="switch-label" data-on="Dark" data-off="Light"></span> 
 	<span class="switch-handle"></span> 
 </label>
-</button>
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
