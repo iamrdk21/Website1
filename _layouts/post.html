@@ -48,9 +48,9 @@ layout: base
         </div>
       {% endif %}
 	
-      {% if page.social-share %}
-        {% include applause.html %}
-      {% endif %}
+     <!-- {% if page.social-share %}
+        
+      {% endif %} -->
 
       <ul class="pager blog-pager">
         {% if page.previous.url %}
@@ -64,6 +64,7 @@ layout: base
         </li>
         {% endif %}
       </ul>
+	  {% include applause.html %}
 	  {% include comments.html %}
 	  {% include social.html %} 	  
     </div>
