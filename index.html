@@ -11,9 +11,55 @@ bigimg:
   background-color: black;
   color: white;
 }
+.switch-light {
+	padding: 0;
+	background: #FFF;
+	background-image: none;
+}
+.switch-light .switch-label {
+	background: #FFF;
+	border: solid 2px #eceeef;
+	box-shadow: none;
+}
+.switch-light .switch-label:after {
+	color: #9370DB;
+}
+.switch-light .switch-label:before {
+	right: inherit;
+	left: 11px;
+}
+.switch-light .switch-handle {
+	top: 6px;
+	left: 72px;
+	background: #dadada;
+	width: 22px;
+	height: 22px;
+	box-shadow: none;
+}
+.switch-light .switch-handle:before {
+	background: #eceeef;
+}
+.switch-light .switch-input:checked ~ .switch-label {
+	background: #FFF;
+	border-color: #9370DB;
+}
+.switch-light .switch-input:checked ~ .switch-handle {
+	left: 72px;
+	box-shadow: none;
+	background: #9370DB
+}
+.switch-light .switch-input:checked ~ .switch-handle:before {
+	background: rgba(255,255,255,0.7);
+}
 </style>
 
-<svg xmlns="http://www.w3.org/2000/svg" onclick="myFunction()" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffc107" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+<button onlclick="myFunction()">
+<label class="switch switch-light">
+	<input class="switch-input" type="checkbox" />
+	<span class="switch-label" data-on="Dark" data-off="Light"></span> 
+	<span class="switch-handle"></span> 
+</label>
+</button>
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
