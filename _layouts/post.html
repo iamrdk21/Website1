@@ -51,21 +51,22 @@ layout: base
       {% if page.social-share %}
         {% include social.html %} 
       {% endif %} 
-	
+	    
+	    <div align="center">
+		{% include applause.html %}   
+	    </div>
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
           <a href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
         </li>
         {% endif %}
-	      <div align="center">
-		{% include applause.html %}     
+	        
         {% if page.next.url %}
         <li class="next">
           <a href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
         </li>
         {% endif %}
-	</div>
       </ul>
 	  {% include comments.html %}	  
     </div>
