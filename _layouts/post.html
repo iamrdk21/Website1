@@ -51,15 +51,14 @@ layout: base
       {% if page.social-share %}
         {% include social.html %} 
       {% endif %} 
-	    <div class="row">
-		   {% include applause.html %}
-	    </div>
+
       <ul class="pager blog-pager">
         {% if page.previous.url %}
         <li class="previous">
           <a href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
         </li>
         {% endif %}
+	      {% include applause.html %}
         {% if page.next.url %}
         <li class="next">
           <a href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
