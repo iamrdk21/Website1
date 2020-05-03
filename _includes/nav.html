@@ -19,26 +19,19 @@
 
 
 <script>
-var switchStatus = false;
-$("#togBtn").on('change', function() {
-    if ($(this).is(':checked')) {
-        switchStatus = $(this).is(':checked');
-        alert(switchStatus);// To verify
-	    
+function myFunction()
+{
 	var element = document.body;
    element.classList.toggle("dark-mode");
-    }
-    else {
-       switchStatus = $(this).is(':checked');
-       alert(switchStatus);// To verify
-    }
-});
+}
+var isChecked=document.getElementById("switchValue").checked;
+console.log(isChecked);
 </script>
 	 
 
     <div class="collapse navbar-collapse" id="main-navbar">
  <label class="switch">
-  <input type="checkbox" id="togBtn" value="false" name="XYZ">
+  <input type="checkbox" id="switchValue" name="XYZ" onclick="myFunction()">
   <div class="slider round"></div>
 </label>
       <ul class="nav navbar-nav navbar-right">
