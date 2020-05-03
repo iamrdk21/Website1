@@ -13,10 +13,12 @@
         <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
       {%- endif -%}
 	    
-	<head><link rel="stylesheet" href="../css/dark-mode.css"></head>
+    </div>
+	  <div>
+		  <head><link rel="stylesheet" href="../css/dark-mode.css"></head>
 <label class="switch">
       <input class="switch-input" type="checkbox" onclick="myFunction()"/>
-      <span class="switch-label" data-on="Dark" data-off="Light"></span> <span class="switch-handle"></span> </label>
+      <span class="switch-label" data-on="" data-off=""></span> <span class="switch-handle"></span> </label>
 
 <script>
 function myFunction() {
@@ -24,7 +26,7 @@ function myFunction() {
    element.classList.toggle("dark-mode");
 }
 </script>
-    </div>
+	  </div>
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
