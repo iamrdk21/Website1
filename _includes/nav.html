@@ -10,9 +10,14 @@
       {%- if site.title-img -%}
         <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
       {%- elsif site.title -%}
-        <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
+        <a class="navbar-brand" href="{{ '' | absolute_url }}">Blog</a>
       {%- endif -%}
-	    
+	<a class="navbar-brand">
+	 <label class="switch">
+  <input type="checkbox" id="switchValue" name="XYZ" onclick="myFunction()">
+  <div class="slider round"></div>
+</label>    
+	</a>    
     </div>
 	
 		  <head><link rel="stylesheet" href="../css/dark-mode.css"></head>
@@ -30,10 +35,6 @@ console.log(isChecked);
 	 
 
     <div class="collapse navbar-collapse" id="main-navbar">
- <label class="switch">
-  <input type="checkbox" id="switchValue" name="XYZ" onclick="myFunction()">
-  <div class="slider round"></div>
-</label>
       <ul class="nav navbar-nav navbar-right">
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
