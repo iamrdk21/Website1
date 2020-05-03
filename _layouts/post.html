@@ -66,6 +66,9 @@ console.log(isChecked);
         {% include social.html %} 
       {% endif %} 
 	    
+	<div align="center">
+		{% include applause.html %}
+	</div>
 	    
       <ul class="pager blog-pager">
         {% if page.previous.url %}
@@ -73,11 +76,7 @@ console.log(isChecked);
           <a href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr;</a>
         </li>
         {% endif %}
-	 
-	 <li>
-		{% include applause.html %} 
-	 </li>
-	      
+	       
         {% if page.next.url %}
         <li class="next">
           <a href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">&rarr;</a>
