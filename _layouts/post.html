@@ -74,13 +74,13 @@ console.log(isChecked);
         
 	       
         {% if page.next.url %}
-        <li class="next">
+        <li class="previous">
           <a href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">&larr;</a>
         </li>
         {% endif %}
 	      
 	  {% if page.previous.url %}
-        <li class="previous">
+        <li class="next">
           <a href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&rarr;</a>
         </li>
         {% endif %}
