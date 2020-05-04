@@ -11,6 +11,7 @@ author: Rohan D. Kadam
 
 navbar-links:
   About Me: "aboutme"
+  Books: "books"
   Search: "Search"
 
 # --- Local development options ---
