@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       {% include social-networks-links.html %}
-      <p class="copyright text-muted">
+      <p class="copyright">
       {% if site.author %}
       {{ site.author }}
       &nbsp;&bull;&nbsp;
@@ -24,6 +24,13 @@
       {% endif%}
       </p>
       </div>
+       <form action="https://getsimpleform.com/messages?form_api_token=38ffa57b618a47e8aa3d275727a423f9" method="post">
+       <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+       <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+        <!-- all your input fields here.... -->
+       <input type='text' name='test' />
+        <input type='submit' value='Test form' />
+      </form>
     </div>
   </div>
 </footer>
