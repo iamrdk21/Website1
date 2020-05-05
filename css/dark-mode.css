@@ -3,6 +3,10 @@
   color: white;
 }
 
+h2{
+  font-color: white;
+}
+
 .switch {
   position: relative;
   display: inline-block;
