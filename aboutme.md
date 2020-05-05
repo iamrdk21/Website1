@@ -1,23 +1,9 @@
 ---
-layout: page
+layout: page1
 title: Rohan D. Kadam
 subtitle: About Me
 ---
-<head><link rel="stylesheet" href="../css/dark-mode.css"></head>
 
-<label class="switch">
-  <input type="checkbox" id="switchValue" name="XYZ" onclick="myFunction()">
-  <div class="slider round"></div>
-</label> 
-<script>
-function myFunction()
-{
-	var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-var isChecked=document.getElementById("switchValue").checked;
-console.log(isChecked);
-</script>
 Hey everybody. I have the following qualities:
 
 - I rock a great mustache
