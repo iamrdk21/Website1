@@ -165,6 +165,6 @@ title: Rohan D. Kadam - My Book Recommendations
 			</div>			
 		</section>
 		<center>
-			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/iamrdk21"><img src="goodreads_logo.png" /></a></h3>
+			<h3>Bookworm huh? Follow me on <a href="https://www.goodreads.com/iamrdk21"><img src="goodreads_logo.png" /></a></h3>
 		</center>
 	</div>
