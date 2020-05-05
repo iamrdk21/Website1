@@ -12,8 +12,8 @@ common-js:
   - "/js/particles.min.js"
   - "/js/particles-config-book.js"
 ---
-
-
+{% include head.html %}
+<body>
   {% include header.html type="books" %}
 
 
@@ -24,3 +24,4 @@ common-js:
 
     <div class="intro-header"></div>
     {{ content }}
+</body>
