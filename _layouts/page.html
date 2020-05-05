@@ -9,21 +9,7 @@ layout: base
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 	    
-	<head><link rel="stylesheet" href="../css/dark-mode.css"></head>
-
-<label class="switch">
-  <input type="checkbox" id="switchValue" name="XYZ" onclick="myFunction()">
-  <div class="slider round"></div>
-</label> 
-<script>
-function myFunction()
-{
-	var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-var isChecked=document.getElementById("switchValue").checked;
-console.log(isChecked);
-</script>
+	
 	    
       {{ content }}
 	  {% include comments.html %}
