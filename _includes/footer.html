@@ -1,31 +1,6 @@
 <footer>
-  <div class="container beautiful-jekyll-footer">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      {% include social-networks-links.html %}
-      <p class="copyright">
-      {% if site.author %}
-      {{ site.author }}
-      &nbsp;&bull;&nbsp;
-      {% endif %}
-      {{ site.time | date: '%Y' }}
-
-      {% if site.url-pretty %}
-      &nbsp;&bull;&nbsp;
-      <!--<a href="{{ '' | absolute_url }}">{{ site.url-pretty }}</a>-->
-      <a href="https://github.com/iamrdk21/iamrdk21.github.io" class="button github" style="color:#909090;" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg><span style="font-size: 12px">SOURCE CODE</span></a>
-      {% endif %}
-
-      {% if site.matomo %}
-        {% if site.matomo.opt-out %}
-          &nbsp;&bull;&nbsp;
-          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
-        {% endif %}
-      {% endif%}
-      </p>
-        
-          <style>
-            input[type=text], select {
+   <style>
+            input[type=email], select {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -50,13 +25,42 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
-.a {
+#a {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
 }
           </style>
-        <p class="a">
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {% include social-networks-links.html %}
+      <p class="copyright">
+      {% if site.author %}
+      {{ site.author }}
+      &nbsp;&bull;&nbsp;
+      {% endif %}
+      {{ site.time | date: '%Y' }}
+
+      {% if site.url-pretty %}
+      &nbsp;&bull;&nbsp;
+      <!--<a href="{{ '' | absolute_url }}">{{ site.url-pretty }}</a>-->
+      <a href="https://github.com/iamrdk21/iamrdk21.github.io" class="button github" style="color:#909090;" target="_blank" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg><span style="font-size: 12px">SOURCE CODE</span></a>
+      {% endif %}
+
+      {% if site.matomo %}
+        {% if site.matomo.opt-out %}
+          &nbsp;&bull;&nbsp;
+          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
+        {% endif %}
+      {% endif%}
+      </p>
+    
+         </div>
+        </div>
+      <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" id="a">
+        
          <form action="https://getsimpleform.com/messages?form_api_token=38ffa57b618a47e8aa3d275727a423f9" method="post">
        <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
        <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
@@ -64,8 +68,8 @@ input[type=submit]:hover {
        <input type='email' name='test' placeholder='Enter your email' />
         <input type='submit' value='Subscribe' />
       </form>
-        </p>
-      </div>
-    </div>
+        
+        </div>
+        </div>
   </div>
 </footer>
