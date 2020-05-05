@@ -1,10 +1,6 @@
 .dark-mode {
   background-color: black;
-  color: white;
-}
-
-h2{
-  color: white;
+  font-color: white;
 }
 
 .switch {
