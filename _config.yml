@@ -120,7 +120,7 @@ google_analytics: "UA-164957367-1"
 staticman:
   repository : iamrdk21/iamrdk21.github.io
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : https://staticman3.herokuapp.com/v3/connect/github/iamrdk21/iamrdk21.github.io/master/ # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  endpoint   : https://staticman3.herokuapp.com/v3/entry/github/iamrdk21/iamrdk21.github.io/master/comments # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
   reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
