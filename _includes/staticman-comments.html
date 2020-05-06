@@ -1,4 +1,18 @@
 {% if site.staticman.repository and site.staticman.branch %}
+<style>
+.button {
+  background-color: #1c1a1a;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
 <div class="staticman-comments">
   <div class="page__comments">
     <!-- Start static comments -->
@@ -59,8 +73,8 @@
           </div>
         {% endif %}
         <div class="form-group">
-          <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--primary btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
-          <button type="submit" id="comment-form-submitted" tabindex="5" class="btn btn--primary btn--large hidden" disabled>{{ site.data.ui-text[site.locale].comment_btn_submitted | default: "Submitted" }}</button>
+          <button class="button" type="submit" id="comment-form-submit" tabindex="5" class="btn btn--primary btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
+          <button class="button" type="submit" id="comment-form-submitted" tabindex="5" class="btn btn--primary btn--large hidden" disabled>{{ site.data.ui-text[site.locale].comment_btn_submitted | default: "Submitted" }}</button>
         </div>
       </form>
     </div>
