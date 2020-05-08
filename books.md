@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Rohan D. Kadam - My Book Recommendations
+title: Treasured Amassment
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
@@ -9,7 +9,7 @@ title: Rohan D. Kadam - My Book Recommendations
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
+	<div class="my__suggestion"><center><h1><br>My Favorite Books</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
@@ -143,6 +143,6 @@ title: Rohan D. Kadam - My Book Recommendations
 				
 		</section>
 		<center>
-			<h3>Bookworm huh? Follow me on <a href="https://www.goodreads.com/iamrdk21"><img src="images/goodreads_logo.png" width="50" height="50" /></a></h3>
+			<h3>Bibliophile? Check out my entire collection on <a href="https://www.goodreads.com/iamrdk21"><img src="images/goodreads_logo.png" width="50" height="50" /></a></h3>
 		</center>
 	</div>
