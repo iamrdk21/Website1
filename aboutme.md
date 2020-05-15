@@ -1,7 +1,8 @@
 ---
 layout: page1
 bigimg: /img/829023.jpg
-title: Hi! I'm Rohan
+title: About Me
+meta-title: Hi! I'm Rohan
 subtitle: About Me
 ---
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
