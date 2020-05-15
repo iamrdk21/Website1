@@ -1,10 +1,10 @@
 ---
 layout: page1
-title: Rohan D. Kadam
+title: Hi! I'm Rohan D. Kadam
 subtitle: About Me
 ---
 
-Hey everybody. I have the following qualities:
+Hey y'all! I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
