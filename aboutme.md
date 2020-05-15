@@ -4,10 +4,8 @@ bigimg: /img/829023.jpg
 title: Hi! I'm Rohan
 subtitle: About Me
 ---
-
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 <div id="aboutme-section">
-<center>
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
 &nbsp;Hey y'all! I'm <strong>Rohan D. Kadam</strong>, an open-minded ambivert.
@@ -45,5 +43,4 @@ subtitle: About Me
 <br>
 &nbsp;Happy reading!
 </p>
-</center>
 </div>
