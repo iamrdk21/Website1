@@ -5,17 +5,18 @@ title: About Me
 meta-title: Hi! I'm Rohan
 subtitle: About Me
 ---
+
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 <div id="aboutme-section">
 
 <p class="about-text">
-<span class="fa fa-briefcase about-icon"></span>
-&nbsp;Hey y'all! I'm <strong>Rohan D. Kadam</strong>, an open-minded ambivert.
+<span class="fa fa-briefcase about-icon"></span><center>
+&nbsp;Hey y'all! I'm <strong>Rohan D. Kadam</strong>, an open-minded ambivert.</center>
 </p>
 
 <p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
-&nbsp;I am currently pursuing my <strong>Bachelor of Technology</strong> degree in <strong>Computer Science & Engineering</strong> from <strong>Institute of Technology, Nirma University</strong>, Ahmedabad, India.
+<span class="fa fa-graduation-cap about-icon"></span><center>
+&nbsp;I am currently pursuing my <strong>Bachelor of Technology</strong> degree in <strong>Computer Science & Engineering</strong> from <strong>Institute of Technology, Nirma University</strong>, Ahmedabad, India.</center>
 </p>
 
 <p class="about-text">
