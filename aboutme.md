@@ -1,6 +1,6 @@
 ---
 layout: page1
-bigimg: /img/858545.jpg
+bigimg: /img/new21.jpg
 title: Hi! I'm Rohan
 subtitle: About Me
 ---
