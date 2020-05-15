@@ -13,7 +13,13 @@ layout: base
 <label class="switch">
   <input type="checkbox" id="switchValue" name="XYZ" onclick="myFunction()">
   <div class="slider round"></div>
-</label> 
+</label> 	
+	    
+      {{ content }}
+	  {% include comments.html %}
+    </div>
+  </div>
+</div>
 <script>
 function myFunction()
 {
@@ -23,10 +29,3 @@ function myFunction()
 var isChecked=document.getElementById("switchValue").checked;
 console.log(isChecked);
 </script>  
-	
-	    
-      {{ content }}
-	  {% include comments.html %}
-    </div>
-  </div>
-</div>
