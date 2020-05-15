@@ -1,6 +1,6 @@
 ---
 layout: page1
-bigimg: /img/rsz_img_0398(1).jpg
+bigimg: /img/rsz_img_0398 (1).jpg
 title: Hi! I'm Rohan
 subtitle: About Me
 ---
