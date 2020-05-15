@@ -1,7 +1,7 @@
 ---
 layout: page1
 bigimg: /img/858545.jpg
-title: Hi! I'm Rohan D. Kadam
+title: Hi! I'm Rohan
 subtitle: About Me
 ---
 
