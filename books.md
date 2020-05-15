@@ -143,6 +143,6 @@ title: Books
 				
 		</section>
 		<center>
-			<h3>Look books? Check out my profile on <a href="https://www.goodreads.com/iamrdk21"><img src="images/goodreads_logo.png" width="50" height="50" /></a></h3>
+			<h3>Love books? Check out my profile on <a href="https://www.goodreads.com/iamrdk21"><img src="images/goodreads_logo.png" width="50" height="50" /></a></h3>
 		</center>
 	</div>
