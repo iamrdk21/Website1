@@ -1,5 +1,6 @@
 ---
 layout: page1
+bigimg: /img/serene.jpg
 title: Hi! I'm Rohan D. Kadam
 subtitle: About Me
 ---
