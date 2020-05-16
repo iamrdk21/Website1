@@ -1,6 +1,6 @@
 ---
 layout: page1
-bigimg: /img/aboutme.jpg
+bigimg: /img/aboutme2.jpg
 title: "Hi! I'm Rohan"
 meta-title: About Me
 subtitle: About Me
