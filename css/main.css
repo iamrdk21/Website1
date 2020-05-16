@@ -522,7 +522,7 @@ footer .theme-by {
     margin-top: 130px;
   }
   .intro-header.big-img {
-    margin-top: 91px; /* Full navbar is small navbar + 20px padding on each side when expanded */
+    margin-top: 80px; /* Full navbar is small navbar + 20px padding on each side when expanded */
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
