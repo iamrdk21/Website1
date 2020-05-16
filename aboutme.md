@@ -29,7 +29,7 @@ subtitle: About Me
 
 <p class="about-text">
 <span class="fas fa-chess about-icon"></span>
-&nbsp;If you want to have a worthy opponent in Chess, well, game on! You can challenge me to a game on <a target='_blank' href="www.chess.com/member/iamback21">chess.com</a>.
+&nbsp;If you want to have a worthy opponent in Chess, well, game on! You can challenge me to a game on <a target='_blank' href="https://www.chess.com/member/iamback21">chess.com</a>.
 </p>
 
 <p class="about-text">
