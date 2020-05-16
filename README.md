@@ -1,2 +1,2 @@
 # Personal Website
-Build using Jekyll and hosted using GitHub Pages
+Built using Jekyll and hosted using GitHub Pages
