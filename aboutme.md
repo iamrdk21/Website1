@@ -3,7 +3,7 @@ layout: page1
 bigimg: /img/829023.jpg
 title: About Me
 meta-title: "Hi! I'm Rohan"
-use-site-tile: true
+use-site-title: true
 subtitle: About Me
 ---
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
@@ -41,8 +41,8 @@ subtitle: About Me
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
 &nbsp;If you like my blog, you can subscribe to the mailing list present in the footer for updates.<br>
-&nbsp;Let me know if you have any feedback. You can reach out to me through any of the social media links given below or you could just drop an e-mail <a target="_blank" href="rohan.kadam.5011@gmail.com">here</a>.
+Let me know if you have any feedback. You can reach out to me through any of the social media links given below or you could just drop an e-mail <a target="_blank" href="mailto:rohan.kadam.5011@gmail.com">here</a>.
 <br>
-&nbsp;Happy reading!
+Happy reading!
 </p>
 </div>
