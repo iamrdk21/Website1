@@ -21,7 +21,7 @@ bigimg:
 
     <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        Published on {{ post.date | date: date_format }}
+        Published on {{ post.date | date: date_format }}<br>
 	{% include read_time.html content=post.content %}
     </p>
 
