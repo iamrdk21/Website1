@@ -3,6 +3,10 @@
   color: white;
 }
 
+h1{
+color: black;
+}
+
 .switch {
   position: relative;
   display: inline-block;
