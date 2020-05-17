@@ -36,7 +36,6 @@ layout: base
   <input type="checkbox" id="switchValue" name="XYZ" onclick="myFunction()">
   <div class="slider round"></div>
 </label>
-{% include read_time.html %}
 <script>
 function myFunction()
 {
@@ -68,6 +67,7 @@ console.log(isChecked);
       {% endif %} 
 	    
 	<div align="center">
+		{% include read_time.html %}
 		{% include applause.html %}
 	</div>
 	    
