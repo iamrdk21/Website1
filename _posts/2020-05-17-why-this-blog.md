@@ -10,6 +10,6 @@ When I thought of starting this blog, just like any other newbie my first take w
 
 So, that's how this expedition began.
 
-This blog will not have an audience-targeted niche. I'll write about various topics, most which will revolve around technology, politics, travel (as I've travelled a fair amount), rubik's cube, biking and well thing's which spike an interest in me. One thing's for sure: <strong>You'll get bored reading the posts that are shared on this blog.</strong>
+This blog will not have an audience-targeted niche. I'll write about various topics, most which will revolve around technology, politics, travel (as I've travelled a fair amount), rubik's cube, biking and well thing's which spike an interest in me. One thing's for sure: <strong>You'll not get bored reading the posts that are shared on this blog.</strong>
 
-If anybody would like their content/article to be posted on this blog, they can reach out to me using any of the links given in the footer (the bottom of the page). The content will be posted along with credits and social media links of the author.
+If anybody would like their content/article to be posted on this blog, they can reach out to me using any of the links given in the footer (the bottom of the page). The content will be posted along with credits and the social media links of the author.
