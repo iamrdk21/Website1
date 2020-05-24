@@ -39,7 +39,7 @@ subtitle: About Me
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-&nbsp;<i class="fab fa-github"></i><a href="https://github.com/iamrdk21/iamrdk21.github.io" class="button github" style="color:#008AFF;" target="_blank" rel="noopener noreferrer"> <span style="font-size: 14px">SOURCE CODE</span></a> : the entire source code of this website.
+&nbsp;<i class="fab fa-github"></i> <a href="https://github.com/iamrdk21/iamrdk21.github.io" class="button github" style="color:#008AFF;" target="_blank" rel="noopener noreferrer"><span style="font-size: 14px">SOURCE CODE</span></a> : the entire source code of this website.
 </p>
 
 <p class="about-text">
