@@ -1,5 +1,5 @@
 ---
-layout: page1
+layout: page
 bigimg: /img/rainbow.jpg
 title: "Hi! I'm Rohan"
 meta-title: About Me
