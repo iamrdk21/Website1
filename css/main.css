@@ -505,6 +505,7 @@ footer .theme-by {
   -webkit-box-shadow: 1px 1px 3px #000;
   -moz-box-shadow: 1px 1px 3px #000;
   color: #C0C0C0;
+  border-color: black;
 }
 .intro-header.big-img .post-heading .post-meta {
   color: #EEE;
