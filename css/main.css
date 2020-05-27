@@ -501,10 +501,8 @@ footer .theme-by {
   font-weight: 400;
 }
 .intro-header.big-img .page-heading hr {
-   /*box-shadow: 1px 1px 3px #000;*/
-  /*-webkit-box-shadow: 1px 1px 3px #000;*/
-  -webkit-text-stroke-width: 0.25px;
-  -webkit-text-stroke-color: black;
+   box-shadow: 1px 1px 3px #000;
+  -webkit-box-shadow: 1px 1px 3px #000;
   -moz-box-shadow: 1px 1px 3px #000;
 }
 .intro-header.big-img .post-heading .post-meta {
