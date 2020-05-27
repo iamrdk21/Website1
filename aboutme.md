@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page1
 bigimg: 
   - "/img/829023.jpg"
 title: "Hi! I'm Rohan"
