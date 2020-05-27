@@ -472,9 +472,7 @@ footer .theme-by {
 .intro-header.big-img .post-heading {
   padding: 100px 0;
   color: #FFF;
-  /*text-shadow: 1px 1px 3px #000;*/
-  -webkit-text-stroke-width: 0.25px;
-  -webkit-text-stroke-color: black;
+  text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
@@ -503,7 +501,7 @@ footer .theme-by {
   font-weight: 400;
 }
 .intro-header.big-img .page-heading hr {
-   box-shadow: 1px 1px 3px #000;
+   /*box-shadow: 1px 1px 3px #000;*/
   /*-webkit-box-shadow: 1px 1px 3px #000;*/
   -webkit-text-stroke-width: 0.25px;
   -webkit-text-stroke-color: black;
