@@ -6,7 +6,7 @@ tags: [iOS, Android, Technology]
 image: "/img/android-vs-ios.jpg"
 share-img: "/img/android-vs-ios.jpg"
 ---
-Fed with up with his Android smartphone, recently, my friend switched over to iOS and got himself an iPhone 8. While setting up his iPhone and installing various apps, he was astounded by the sheer size of iOS apps. The differences in the app sizes are overwhelming.
+Fed with up with his Android smartphone, recently, my friend switched over to iOS and got himself an iPhone 8. While setting up his iPhone and installing various apps, he was astounded by the sheer size of iOS apps. The differences in the app sizes were overwhelming.
 
 Let's take a table for comparison.
 
@@ -30,7 +30,7 @@ The two major reasons for the insane size of iOS Apps are:
 ***Android:*** Distributed as CPU-indpendent "bytecode" that's converted to device's native code at runtime. More portable, but adds overhead.
 
 - ***iOS:*** Include several different versions of their artwork-2x and 3x resolution, P3 color spaces and sRGB. Again, each device downloads only it's own art work but the App Store includes all the versions.<br>
-***Android:*** Typically, they do not have so many versions of the artwork.
+***Android:*** Typically, they do not have as many versions of the artwork as iOS.
 
 So the upshot here is:
 
