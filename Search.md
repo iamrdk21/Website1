@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page1
 title: "Search"
 subtitle: Enter Keywords
 css: /css/Search.css
