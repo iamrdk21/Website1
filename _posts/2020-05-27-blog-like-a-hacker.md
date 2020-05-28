@@ -4,7 +4,7 @@ title: Blog like a HACKER
 subtitle: Jekyll vs CMS
 bigimg: 
   - "/img/hacker.jpg"
-tags: [blogging, jekyll, wordpress, cms]
+tags: [blogging, Jekyll, Wordpress, CMS]
 ---
 
 {: .box-note}
@@ -16,7 +16,7 @@ This is where **Jekyll** came in.
 
 Jekyll is a simple, blog-aware, static generator written in Ruby by GitHub's co-founder Tom Preston-Werner. It uses markdown and generates static HTML documents out of it. Static websites can hosted on GitHub without any hassle.
 
-Jekyll Blogs are *cool*:
+Jekyll Blogs are ***cool***:
 
 - No database required
 - Manage everything with Git
