@@ -25,7 +25,7 @@ bigimg:
 
 <p class="about-text">
 <span class="fa fa-music about-icon"></span>
-&nbsp;I have a weird choice of songs and hence a weird playlist. The genre of songs I listen to is mostly: occasional rap, not too hard to be pop, and it blends a touch of rock.
+&nbsp;I have a weird choice of music and hence a weird playlist. I occasionally listen to rap songs.I prefer music which is not too hard to be pop, and has a gentle a touch of rock.
 </p>
 
 <p class="about-text">
