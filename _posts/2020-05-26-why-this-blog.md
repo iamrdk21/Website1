@@ -2,6 +2,8 @@
 layout: post
 title: Why This Blog?
 subtitle: and what's it gonna be about?
+bigimg: 
+  - "/img/blog.jpg"
 tags: [blogging]
 ---
 
