@@ -1,6 +1,6 @@
 ---
 layout: page1
-title: "<br>Hi! I'm Rohan"
+title: "Hi! <br>I'm Rohan"
 subtitle: About Me
 meta-title: About Me
 bigimg: 
