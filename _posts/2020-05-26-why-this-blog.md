@@ -2,6 +2,7 @@
 layout: post
 title: Why This Blog?
 subtitle: and what's it gonna be about?
+tags: [blogging]
 ---
 
 One thing that makes me stand out is the quality of "not being bored". Even when I'm alone, I always keep doing something or the other. Learning and trying new things captivates me. So just like any other new hobby I've tried and pursued, this is my stint at <strong>blogging</strong>.
