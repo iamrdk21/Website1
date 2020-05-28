@@ -21,7 +21,7 @@ Let's take a table for comparison.
 | Chrome | 66.8 MB | 34 MB |
 <center>
 <h2>iOS vs Android</h2>
-<img src="/img/apple-vs-android.png">
+<img src="/img/android_vs_ios.png">
 </center>
 The two major reasons for the insane size of iOS Apps are:
 
