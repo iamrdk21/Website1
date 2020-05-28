@@ -1,10 +1,10 @@
 ---
 layout: page1
+title: "Hi! I'm Rohan"
+subtitle: About Me
+meta-title: About Me
 bigimg: 
   - "/img/829023.jpg"
-title: "Hi! I'm Rohan"
-meta-title: About Me
-subtitle: About Me
 ---
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 <div id="aboutme-section">
