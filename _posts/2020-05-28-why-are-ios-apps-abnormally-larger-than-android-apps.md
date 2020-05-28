@@ -29,7 +29,7 @@ The two major reasons for the insane size of iOS Apps are:
 - ***iOS:*** Distributed as native code that runs directly on the CPU. Apple includes different copies of the app's code for different CPU architectures. The app code, images, data files, etc. are all added to the app bundle, which overall increases it's responsiveness. Simply put, the size listed on the App Store includes all the versions of the app's code but fortunately enough, each device only downloads it's copy of the code.<br>
 ***Android:*** Distributed as CPU-indpendent "bytecode" that's converted to device's native code at runtime. More portable, but adds overhead.
 
-- ***iOS:*** Include several different versions of their artwork-2x and 3x resolution, P3 color spaces and sRGB. Again, each device downloads only it's own art work but the App Store includes all the versions.<br>
+- ***iOS:*** Includes several different versions of their artwork-2x and 3x resolution, P3 color spaces and sRGB. Again, each device downloads only it's own art work but the App Store includes all the versions.<br>
 ***Android:*** Typically, they do not have as many versions of the artwork as iOS.
 
 So the upshot here is:
