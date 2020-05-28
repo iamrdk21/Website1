@@ -9,7 +9,7 @@ share-img: "/img/android-vs-ios.jpg"
 Fed with up with his Android smartphone, recently, my friend switched over to iOS and got himself an iPhone 8. While setting up his iPhone and installing various apps, he was astounded by the sheer size of iOS apps. The differences in the app sizes are overwhelming.
 
 Let's take a table for comparison.
-<center>
+
 | App | iOS Size | Android Size |
 | :------ |:--- | :--- |
 | WhatsApp | 237 MB | 23 MB |
@@ -19,7 +19,7 @@ Let's take a table for comparison.
 | Gmail | 176 MB | 14 MB |
 | LinkedIn | 167 MB | 25 MB |
 | Chrome | 66.8 MB | 34 MB |
-
+<center>
 <h2>iOS vs Android</h2>
 <img src="/img/apple-vs-android.png">
 </center>
