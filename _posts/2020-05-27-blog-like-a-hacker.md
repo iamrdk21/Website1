@@ -31,4 +31,4 @@ Jekyll Blogs are ***cool***:
 
 Jekyll does what you tell it to do, no more, no less. It doesn't try to outsmart you by making bold assumptions, nor does it burden you with needless complexity and configuration.
 
-Simply put, Jekyll gets out of your way and allows you to concentrate on what truly matters: **Content**.
+Simply put, Jekyll gets out of your way and allows you to concentrate on what truly matters: **CONTENT**.
