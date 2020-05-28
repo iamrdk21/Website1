@@ -46,7 +46,7 @@ bigimg:
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
 &nbsp;If you like my blog, you can subscribe to the mailing list present in the footer for updates.<br>
-Let me know if you have any feedback. If anybody would like their content/article to be posted on this blog (along with credits ofc!), you can reach out to me using any of the social media links given in the footer (bottom of the page) or you could just drop me an e-mail <a target="_blank" href="mailto:rohan.kadam.5011@gmail.com">here</a>.
+Let me know if you have any feedback. You can reach out to me using any of the social media links given in the footer (bottom of the page) or you could just drop me an e-mail <a target="_blank" href="mailto:rohan.kadam.5011@gmail.com">here</a>.
 <br>
 Happy reading!
 </p>
