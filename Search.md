@@ -19,7 +19,7 @@ css: /css/Search.css
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<!--<gcse:searchbox></gcse:searchbox>
+<gcse:searchbox></gcse:searchbox>
 <gcse:searchresults></gcse:searchresults>
 <!--<script async src="https://cse.google.com/cse.js?cx=003037785403425227493:tab9sattetg"></script>-->
 <!--<div class="gcse-search"></div>
