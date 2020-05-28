@@ -19,6 +19,7 @@ Let's take a table for comparison.
 | Gmail | 176 MB | 14 MB |
 | LinkedIn | 167 MB | 25 MB |
 | Chrome | 66.8 MB | 34 MB |
+
 <center>
 <h2>iOS vs Android</h2>
 <img src="/img/android_vs_ios.png">
