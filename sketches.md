@@ -1,10 +1,10 @@
 ---
-layout: books
-title: Books
+layout: sketches
+title: Sketches
 ---
 <head>
-	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
-	<link rel="stylesheet" type="text/css" href="css/books_component.css" />
+	<link rel="stylesheet" type="text/css" href="css/sketches_style.css" />
+	<link rel="stylesheet" type="text/css" href="css/sketches_component.css" />
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
 </head>
