@@ -13,26 +13,23 @@ title: Sketches
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/the_alchemist.png" alt="The Alchemist" />
-					<h3 class="product__title">The Alchemist</h3>
-					<span class="product__author highlight">Paulo Coelho</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+Paulo+Coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/jeniffer.JPG" alt="Jeniffer Aniston" />
+					<h3 class="product__title">Jeniffer Aniston</h3>
+					<span class="product__author highlight">Pencil Sketch</span>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/ad.png" alt="Angels and Demons" />
-					<h3 class="product__title">Angels and Demons</h3>
-					<span class="product__author highlight">Dan Brown</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Angels+and+Demons+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/eminem.JPG" alt="EMINEM" />
+					<h3 class="product__title">EMINEM</h3>
+					<span class="product__author highlight">Pencil Sketch</span>
 				</div>
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/god_delusion.png" alt="The God Delusion" />
-					<h3 class="product__title">The God Delusion</h3>
-					<span class="product__author highlight">Richard Dawkins</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+God+Delusion+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/maeve.jpg" alt="Emma Mackey" />
+					<h3 class="product__title">Emma Mackey</h3>
+					<span class="product__author highlight">Pencil Sketch</span>
 				</div>
 			</div>
 			<div class="product">
