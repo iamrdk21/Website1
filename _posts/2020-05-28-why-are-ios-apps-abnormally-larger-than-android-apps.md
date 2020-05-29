@@ -29,12 +29,13 @@ iOS apps are not only larger in size, they are getting larger day by day! These 
 
 The contributing factor to the large size of iOS apps is the constant addition of new features and updates. But, Android apps also receive updates, right? Let's find out the reasons given by iOS developers for the insane size of iOS Apps:
 
-- ***SWIFT requirements*** 
-Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS. The requirements of Swift are considered as a major contributing factor to the size of iOS apps. For the successful creation and implementation of these apps, developers are required to wad the apps with numerous libraries and runtime libraries. These libraries, reportedly, make iOS apps heavier (and secure as well).
-On the other hand, Android's language "Kotlin" integrates directly into the existing Andorid infrastructure and doesn't need these kind of support libraries. The catch here is, Swift can help to easily add new features to apps while Kotlin cannot radically change the underlying infrastructure.
+- ***SWIFT requirements***<br> 
+Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS. The requirements of Swift are considered as a major contributing factor to the size of iOS apps. For the successful creation and implementation of these apps, developers are required to wad the apps with numerous libraries and runtime libraries. These libraries, reportedly, make iOS apps heavier (and secure as well).<br>
+On the other hand, Android's language "Kotlin" integrates directly into the existing Andorid infrastructure and doesn't need these kind of support libraries.<br>
+The catch here is, Swift can help to easily add new features to apps while Kotlin cannot radically change the underlying infrastructure.
 
-- ***Repitition in App Codes:*** 
+- ***Repitition in App Codes:***<br>
 A single team does work on the entire app. Different functionalities are give to different teams to implement. Due to this, there is a likelihood of functionality or component repitition when these components are compiled. This unfortunately leads to image files and databases occuring at multiple places in the same app, and hence an increase in the app size.
 
-- ***Use of Multiple Assets:*** 
+- ***Use of Multiple Assets:***<br> 
 Androids apps use a single set of assets in their codes. Assets are the buttons, images, icons, etc. present in the app. In contrast, iOS apps make use of multiple versions and architectures so that the apps can fit on different screen sizes on iPhones and iPads. The existence of these multiple versions of assets in iOS apps greatly impacts their storage footprints. 
