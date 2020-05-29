@@ -5,6 +5,8 @@ subtitle: About Me
 meta-title: About Me
 bigimg: 
   - "/img/829023.jpg"
+image: "/img/pfp.jpg"
+share-img: "/img/pfp.jpg"
 ---
 <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 <div id="aboutme-section">
