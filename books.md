@@ -16,7 +16,7 @@ title: Books
 					<img class="product__image" src="images/the_alchemist.png" alt="The Alchemist" />
 					<h3 class="product__title">The Alchemist</h3>
 					<span class="product__author highlight">Paulo Coelho</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+Paulo+Coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.goodreads.com/review/show/3185467870?book_show_action=false&from_review_page=1')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -139,10 +139,8 @@ title: Books
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Da+Vinci+Code+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
-			
-				
 		</section>
 		<center>
-			<h3>Love books? Check out my profile on <a href="https://www.goodreads.com/iamrdk21"><img src="images/goodreads_logo.png" width="50" height="50" /></a></h3>
+			<h3>Love books? Check out my profile on <a href="https://www.goodreads.com/iamrdk21" target="_blank"><img src="images/goodreads_logo.png" width="50" height="50" /></a></h3>
 		</center>
 	</div>
