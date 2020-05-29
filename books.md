@@ -37,10 +37,10 @@ title: Books
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/subtle.png" alt="The Subtle Art of Not Giving a F*ck" />
-					<h3 class="product__title">The Subtle Art of Not Giving a F*ck</h3>
-					<span class="product__author highlight">Mark Manson</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/scion.jpg" alt="Scion of Ikshvaku" />
+					<h3 class="product__title">Scion of Ikshvaku</h3>
+					<span class="product__author highlight">Amish Tripathi</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Scion+of+Ikshvaku+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
