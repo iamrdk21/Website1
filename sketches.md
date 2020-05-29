@@ -90,7 +90,7 @@ title: Sketches
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/simba.PNG" alt="SIMBA" />
+					<img class="product__image" src="images/simba2.PNG" alt="SIMBA" />
 					<h3 class="product__title">SIMBA</h3>
 					<span class="product__author highlight">Pen Sketch</span>
 				</div>
