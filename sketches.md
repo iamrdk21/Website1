@@ -1,6 +1,6 @@
 ---
 layout: books
-title: Sketches
+title: Books
 ---
 <head>
 	<link rel="stylesheet" type="text/css" href="css/book_style.css" />
