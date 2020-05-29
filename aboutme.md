@@ -37,7 +37,7 @@ share-img: "/img/pfp.jpg"
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-&nbsp;I have numerous hobbies other than reading. Sketching is one of them. You can check out my pen, pencil and digital sketches in my <a target='_blank' href="https://www.instagram.com/iamrdk21">Instagram</a> story highlights. I love solving puzzles and Rubik's Cube. My fastest time for Rubik's cube is 42 sec. I'm working on it and I might be able to bring it under 30 sec by the next month. I love riding my bike. And lastly, I've developed an interest in beatboxing which I think is pretty amazing.  
+&nbsp;I have numerous hobbies other than reading. Sketching is one of them. You can check out my pen, pencil and digital sketches <a href="https://www.inchoate.me/sketches/">here</a> or you could find them in my <a target='_blank' href="https://www.instagram.com/iamrdk21">Instagram</a> story highlights. I love solving puzzles and Rubik's Cube. My fastest time for Rubik's cube is 42 sec. I'm working on it and I might be able to bring it under 30 sec by the next month. I love riding my bike. And lastly, I've developed an interest in beatboxing which I think is pretty amazing.  
 </p>
 
 <p class="about-text">
