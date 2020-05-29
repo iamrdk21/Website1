@@ -35,7 +35,7 @@ On the other hand, Android's language "Kotlin" integrates directly into the exis
 The catch here is, Swift can help to easily add new features to apps while Kotlin cannot radically change the underlying infrastructure.
 
 - ***Repitition in App Codes:***<br>
-A single team does work on the entire app. Different functionalities are give to different teams to implement. Due to this, there is a likelihood of functionality or component repitition when these components are compiled. This unfortunately leads to image files and databases occuring at multiple places in the same app, and hence an increase in the app size.
+A single team does work on the entire app. Different functionalities are given to different teams for implementation. Due to this, there is a likelihood of functionality or component repitition when these components are compiled. This unfortunately leads to image files and databases occuring at multiple places in the same app, and hence an increase in the app size.
 
 - ***Use of Multiple Assets:***<br> 
 Androids apps use a single set of assets in their codes. Assets are the buttons, images, icons, etc. present in the app. In contrast, iOS apps make use of multiple versions and architectures so that the apps can fit on different screen sizes on iPhones and iPads. The existence of these multiple versions of assets in iOS apps greatly impacts their storage footprints. 
