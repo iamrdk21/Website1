@@ -4,7 +4,7 @@ title: Blog like a HACKER
 subtitle: Jekyll vs CMS
 bigimg: 
   - "/img/hacker.jpg"
-tags: [blogging, Jekyll, Wordpress, CMS]
+tags: [blogging, Jekyll, Wordpress]
 ---
 
 {: .box-note}
