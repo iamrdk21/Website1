@@ -8,7 +8,7 @@ bigimg:
 ---
 
 {: .box-note}
-<strong>Thol Bird Sanctuary:</strong> *A shallow freshwater body surrounded by marshes and a scrubby forest marking the lake's area. It covers an area of 7 square kilometers and was declared officially in 1988.*
+**Thol Bird Sanctuary:** *A shallow freshwater body surrounded by marshes and a scrubby forest marking the lake's area. It covers an area of 7 square kilometers and was declared officially in 1988.*
 
 It was a long weekend. Almost all of our roommates were headed home. The four of us (Ankit, Yagnik, Sarthak and me) had decided to spend our weekend exploring some tourist spots near Ahmedabad. But, as every plan begins, we could not decide on the place. We had explored enough of Ahmedabad and wanted to go outside the city. To be honest, there aren't many "naturally appealing" places to visit in and around Ahmedabad. After a lot of thinking (5 minutes or so), we came down to 2 options. It was either going to be **Nalsarovar Bird Sanctuary** or **Thol Bird Sanctuary**. Nalsarovar is too far away from Ahmedabad, so, naturally we were left with **"Thol"**. 
 
@@ -45,7 +45,7 @@ Here are some spanshots we took:
 All in all, **Thol Bird Sanctuary** is a nice weekend getaway for people residing in Ahmedabad.
 
 {: .box-warning}
-<strong>Note:</strong> Try to reach the sanctuary before sunrise. The afternoon heat can be annoying. 
+**Note:** Try to reach the sanctuary before sunrise. The afternoon heat can be annoying. 
 
 Directions to reach:
 
