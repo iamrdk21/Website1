@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Day Trip to Thol Bird Sanctuary
-subtitle: 
+subtitle: Ahmedabad Weekend Getaway 
 tags: [travel]
 bigimg: 
   - "/img/tholmain.jpg"
