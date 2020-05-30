@@ -29,7 +29,7 @@ iOS apps are not only larger in size, they are getting larger day by day! These 
 
 The contributing factor to the large size of iOS apps is the constant addition of new features and updates. But, Android apps also receive updates, right? Let's find out the reasons given by iOS developers for the insane size of iOS Apps:
 
-- ***SWIFT requirements***<br> 
+- ***SWIFT requirements:***<br> 
 Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS. The requirements of Swift are considered as a major contributing factor to the size of iOS apps. For the successful creation and implementation of these apps, developers are required to wad the apps with numerous libraries and runtime libraries. These libraries, reportedly, make iOS apps heavier (and secure as well).<br>
 On the other hand, Android's language "Kotlin" integrates directly into the existing Andorid infrastructure and doesn't need these kind of support libraries.<br>
 The catch here is, Swift can help to easily add new features to apps while Kotlin cannot radically change the underlying infrastructure.
