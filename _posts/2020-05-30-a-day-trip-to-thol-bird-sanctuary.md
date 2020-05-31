@@ -14,7 +14,7 @@ It was a long weekend. Almost all of our roommates were headed home. The four of
 
 So, the stage was set. Everything was finalized on Saturday evening. We planned to wake up by 5:00 am, leave by 5:30 am and reach Thol on bike, in time to catch the Sunrise. The one who'd get up first was supposed to call others so that we'd start our journey early.
 
-Being punctual is an engineer's trait. Abiding to that, none of us woke up, neither did we call each other until it was 6:30 in the morning. After waking up "so early", we were quite skeptical of continuing with the plan. But, we had nothing else to do, so we thought "why not just go with the plan?" We got ready and left our place by 7:15 am (after sunrise lol!)
+Being punctual is an engineer's trait. Abiding by that, none of us woke up, neither did we call each other until it was 6:30 in the morning. After waking up "so early", we were quite skeptical of continuing with the plan. But, we had nothing else to do, so we thought "why not just go with the plan?" We got ready and left our place by 7:15 am (after sunrise lol!)
 
 <img src="/img/thol2.jpg">
 
