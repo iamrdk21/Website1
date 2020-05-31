@@ -82,7 +82,7 @@ and press Enter.
 <img src="/img/github10.png">
 
 <img src="/img/github11.png">
-<hr>
+<hr color="black">
 And voila, your website is live and running!!
 
 You can add CSS, Javascript and other HTML files to your repository and commit changes. Your website will be automatically updated!
