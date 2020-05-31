@@ -3,8 +3,6 @@ layout: post
 title: 6 Easy Steps to Host your Website for Free
 subtitle: GitHub Hosting
 tags: [GitHub, website, hosting]
-image: "/img/githubmain.jpg"
-share-img: "/img/githubmain.jpg"
 ---
 
 {: .box-note}
@@ -61,11 +59,11 @@ If you already have your website created on your computer, upload all the files 
 
 *Step 5.2:*
 
-Let's say you're just starting to create your website.
+If you're just starting to create your website, click on **Create new file**.
 
 <img src="/img/github7.png">
 
-Let's say for example we'll create a page named "**index.html**" and "Commit new file".
+Let's say for example we'll create a page named "**index.html**" and then "**Commit new file**".
 
 <img src="/img/github8.png">
 
@@ -73,7 +71,7 @@ Let's say for example we'll create a page named "**index.html**" and "Commit new
 
 **Step 6:**
 
-We are done with the basic version of the website. The webiste gets automatically deployed after you "commit changes". For checking out your website on the internet, just go your browser and type:
+We are done with the basic version of the website. The webiste gets automatically deployed after you "*commit changes*". For checking out your website on the internet, just go your browser and type:
 
 **<italic>username</italic>.github.io**
 
@@ -84,5 +82,7 @@ and press Enter.
 <img src="/img/github11.png">
 <hr color="black">
 And voila, your website is live and running!!
+
+It's also secure (***https***)!
 
 You can add CSS, Javascript and other HTML files to your repository and commit changes. Your website will be automatically updated!
