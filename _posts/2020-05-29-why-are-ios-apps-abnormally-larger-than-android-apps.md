@@ -6,7 +6,7 @@ tags: [iOS, Android, Technology]
 image: "/img/android-vs-ios.jpg"
 share-img: "/img/android-vs-ios.jpg"
 ---
-If you ever wondered around the app stores of Android devices and Apple devices, the insane size of iOS apps shouldn't be a new revelation to you.
+If you've ever wandered around the app stores of Android devices and Apple devices, the insane size of iOS apps shouldn't be a new revelation to you.
 Let's take a table for comparison.
 
 | App | iOS Size | Android Size |
