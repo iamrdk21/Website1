@@ -8,15 +8,15 @@ share-img: "/img/githubmain.jpg"
 ---
 
 {: .box-note}
-***GitHub:*** *In very simple terms, GitHub is a website for hosting your source code. It is a really cool and almost any repository on GitHub can be converted into a website.*
+***GitHub:*** *In very simple terms, GitHub is a website for hosting your source code. It is really cool and almost any repository on GitHub can be converted into a website.*
 
-Who doesn't want a free hosting platform for their website? If you want a free hosting platform that is secure and reliable, GitHub is the best option. The only requirement: you should have some basic coding knowledge, really basic.
+Who doesn't want a free hosting platform for their website? If you want a free hosting platform that is secure and reliable, **GitHub** is the best option. The only requirement: *you should have some basic coding knowledge, really basic*.
 
-If you have your website ready or are planning to build one, and you have no idea how to host it, you're at the right place. We are going to follow some very simple steps and get our website live under 5 minutes!
+If you have your website ready or are planning to build one, and you have no idea how to host it, you're at the right place. We are going to follow some very simple steps and get your website live under 5 minutes!
 
 **Step 1:**
 
-Visit GitHub.com and sign-up for a free account. Verify your email and your account will be created. If you already have an account, ignore this step.
+Visit GitHub.com and sign-up for a free account. Verify your email address and your account will be created. If you already have an account, ignore this step.
 
 <img src="/img/github1.png">
 
@@ -43,7 +43,7 @@ The above convention tells GitHub to host the files in your repository automatic
 
 https://[***username***].github.io
 
-Check the README dialog box and click on the "Create Repository" button.
+Check the README box and click on the "Create Repository" button.
 
 <img src="/img/github4.png">
 
@@ -65,7 +65,7 @@ Let's say you're just starting to create your website.
 
 <img src="/img/github7.png">
 
-Let's say for example we'll create a page named "**index.html**" and "Commit changes".
+Let's say for example we'll create a page named "**index.html**" and "Commit new file".
 
 <img src="/img/github8.png">
 
@@ -73,16 +73,16 @@ Let's say for example we'll create a page named "**index.html**" and "Commit cha
 
 **Step 6:**
 
-We are done with the basic version of our website and it has been successfully deployed after "committing changes". For checking out our website on the internet, just go the browser and type:
+We are done with the basic version of the website. The webiste gets automatically deployed after you "commit changes". For checking out your website on the internet, just go your browser and type:
 
 **<italic>username</italic>.github.io**
 
-and press enter.
+and press Enter.
 
 <img src="/img/github10.png">
 
 <img src="/img/github11.png">
+<hr>
+And voila, your website is live and running!!
 
-And voila, our website is live and running!!
-
-You can add CSS, Javascript and other HTML files to your repository and commit changes. Your wwebsite will be automatically updated.
+You can add CSS, Javascript and other HTML files to your repository and commit changes. Your website will be automatically updated!
