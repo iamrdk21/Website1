@@ -8,9 +8,9 @@ bigimg:
 ---
 <div class="list-filters">
   <a href="/" class="list-filter">All Posts</a>
-  <a href="/tutorials" class="list-filter">Technology</a>
+  <a href="/technology" class="list-filter">Technology</a>
   <span class="list-filter filter-selected">Book Reviews</span>
-  <a href="/tags" class="list-filter">Travel</a>
+  <a href="/travel" class="list-filter">Travel</a>
 </div>
 
 <div class="posts-list">
