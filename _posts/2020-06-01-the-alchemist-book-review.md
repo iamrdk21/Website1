@@ -2,7 +2,7 @@
 layout: post
 title: The Alchemist (by Paulo Coelho)
 subtitle: Book Review 
-tags: [book review]
+tags: [bookreview]
 ---
 
 {: .box-note}
