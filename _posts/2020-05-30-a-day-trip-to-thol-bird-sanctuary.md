@@ -16,31 +16,31 @@ So, the stage was set. Everything was finalized on Saturday evening. We planned 
 
 Being punctual is an engineer's trait. Abiding by that, none of us woke up, neither did we call each other until it was 6:30 in the morning. After waking up "so early", we were quite skeptical of continuing with the plan. But, we had nothing else to do, so we thought "why not just go with the plan?" We got ready and left our place by 7:15 am (after sunrise lol!)
 
-<img src="/img/thol2.jpg">
+<img src="/img/thol2.jpg" alt="The trip begins">
 
 Our journey started well. The sun was not too harsh and the wind was pleasant. We trusted Google Maps for directions to lead us to Thol. The sanctuary is around 30 km from Ahmedabad, so we thought it'd take roughly around 1 hr to reach there. It is located in Thol village in Mehsana district. Unfortunately, Google Maps isn't precise all the time. We reached a dead end. In fact, we ended up inside the Thol village. Thankfully, the villagers were quite helpful in giving us the correct directions to the sanctuary.
 
 The lake is surrounded by agricultural land which provides ample amount of food for many birds. We could spot different birds even before we entered the sanctuary. The ambience of the locale was still and serene. On entering the gate, you are required to take a coupon for your visit and then you can proceed further.
 
-<img src="/img/thol3.JPG">
+<img src="/img/thol3.JPG" alt="Thol main gate">
 
 The road leading up to the lake is quite rough and bumpy. They need to work on that.
 
-<img src="/img/thol4.JPG">
+<img src="/img/thol4.JPG" alt="Entry road">
 
 The lake is replete with reeds and sparsely spread trees where the birds dwell and breed. It is vast, and though it's a bird sanctuary we could hardly spot any non-indigenous (exotic) birds. The surrounding forests are deprived of any wildlife. However, you will find plenty of indigenous species like sparrows, crows, mynas and so on. We were in extremely high spirits on making it to Thol, so not finding exotic birds did the least to dampen our spirits. We were just happy to see whatever we could, even the sparrows, which are quite rare nowadays!
 
 Here are some spanshots we took:
 
-<img src="/img/thol7.jpg">
+<img src="/img/thol7.jpg" alt="Thol1">
 
-<img src="/img/thol6.jpg">
+<img src="/img/thol6.jpg" alt="Thol2">
 
-<img src="/img/thol8.jpg">
+<img src="/img/thol8.jpg" alt="Thol3">
 
-<img src="/img/thol9.jpg">
+<img src="/img/thol9.jpg" alt="Thol4">
 
-<img src="/img/thol10.jpg">
+<img src="/img/thol10.jpg" alt="Thol5">
 
 All in all, **Thol Bird Sanctuary** is a nice weekend getaway for people residing in Ahmedabad.
 
