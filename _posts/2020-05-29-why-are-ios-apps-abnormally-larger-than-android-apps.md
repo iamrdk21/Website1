@@ -2,7 +2,7 @@
 layout: post
 title: Why are iOS apps abnormally larger than Android apps?
 subtitle: iOS vs Android
-tags: [iOS, Android, Technology]
+tags: [iOS, Android, technology]
 image: "/img/android-vs-ios.jpg"
 share-img: "/img/android-vs-ios.jpg"
 ---
