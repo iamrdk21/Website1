@@ -2,7 +2,7 @@
 layout: post
 title: 6 Easy Steps to Host your Website for Free
 subtitle: GitHub Hosting
-tags: [GitHub, website, hosting]
+tags: [GitHub, website, hosting, technology]
 ---
 
 {: .box-note}
