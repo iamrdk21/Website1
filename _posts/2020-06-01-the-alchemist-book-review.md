@@ -6,7 +6,7 @@ tags: [book review]
 ---
 
 {: .box-note}
-***The Alchemist:*** *Novel by Brazilian author Paulo Coelho that was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller..*
+***The Alchemist:*** *Novel by Brazilian author Paulo Coelho that was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller.*
 
 One thing I think the planet certainly lacks the most now is **positivity**. I'm glad that this novel is a bestseller as it infuses its readers with positivity. 
 
