@@ -3,6 +3,7 @@ layout: page
 title: The Inchoate Intellectual
 subtitle: RDK
 use-site-title: true
+css: "/css/index.css"
 bigimg: 
   - "/img/rainbow.jpg"
 ---
