@@ -16,19 +16,19 @@ If you have your website ready or are planning to build one, and you have no ide
 
 Visit GitHub.com and sign-up for a free account. Verify your email address and your account will be created. If you already have an account, ignore this step.
 
-<img src="/img/github1.png">
+<img src="/img/github1.png" alt="Screenshot1">
 
 **Step 2:**
 
 Go to the "Your repositories" section.
 
-<img src="/img/github2.png">
+<img src="/img/github2.png" alt="Screenshot2">
 
 **Step 3:**
 
 Click on the "New" button for creating a new repository.
 
-<img src="/img/github3.png">
+<img src="/img/github3.png" alt="Screenshot3">
 
 **Step 4:**
 
@@ -43,7 +43,7 @@ https://[***username***].github.io
 
 Check the README box and click on the "Create Repository" button.
 
-<img src="/img/github4.png">
+<img src="/img/github4.png" alt="Screenshot4">
 
 **Step 5:**
 
@@ -53,21 +53,21 @@ Now here you have 2 options: **Upload files** or **Create new file**.
 
 If you already have your website created on your computer, upload all the files and "Commit changes".
 
-<img src="/img/github5.png">
+<img src="/img/github5.png" alt="Screenshot5">
 
-<img src="/img/github6.png">
+<img src="/img/github6.png" alt="Screenshot6">
 
 *Step 5.2:*
 
 If you're just starting to create your website, click on **Create new file**.
 
-<img src="/img/github7.png">
+<img src="/img/github7.png" alt="Screenshot7">
 
 Let's say for example we'll create a page named "**index.html**" and then "**Commit new file**".
 
-<img src="/img/github8.png">
+<img src="/img/github8.png" alt="Screenshot8">
 
-<img src="/img/github9.png">
+<img src="/img/github9.png" alt="Screenshot9">
 
 **Step 6:**
 
@@ -77,9 +77,9 @@ We are done with the basic version of the website. The webiste gets automaticall
 
 and press Enter.
 
-<img src="/img/github10.png">
+<img src="/img/github10.png" alt="Screenshot10">
 
-<img src="/img/github11.png">
+<img src="/img/github11.png" alt="Screenshot11">
 <hr color="black">
 And voila, your website is live and running!!
 
