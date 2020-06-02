@@ -6,6 +6,13 @@ use-site-title: true
 bigimg: 
   - "/img/rainbow.jpg"
 ---
+<div class="list-filters">
+  <a href="/" class="list-filter">All Posts</a>
+  <a href="/technology" class="list-filter">Technology</a>
+  <a href="/bookreview" class="list-filter">Book Reviews</a>
+  <span class="list-filter filter-selected">Travel</span>
+</div>
+
 <div class="posts-list">
   {% for post in site.tags.travel %}
   <article class="post-preview">
