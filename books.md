@@ -16,7 +16,7 @@ title: Books
 					<img class="product__image" src="images/the_alchemist.png" alt="The Alchemist" />
 					<h3 class="product__title">The Alchemist</h3>
 					<span class="product__author highlight">Paulo Coelho</span>
-					<button class="action action--button" onclick="window.open('https://www.goodreads.com/review/show/3185467870?book_show_action=false&from_review_page=1')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-06-01-the-alchemist-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
