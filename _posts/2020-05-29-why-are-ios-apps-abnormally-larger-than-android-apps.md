@@ -24,7 +24,7 @@ Let's take a table for comparison.
 iOS apps are not only larger in size, they are getting larger day by day! These apps not only reduce your data plan significantly but they also eat up a noteworthy chunk of your device's memory.
 <center>
 <h2>iOS vs Android</h2>
-<img src="/img/android_vs_ios.png">
+<img src="/img/android_vs_ios.png" alt="iOS vs Android">
 </center>
 
 The contributing factor to the large size of iOS apps is the constant addition of new features and updates. But, Android apps also receive updates, right? Let's find out the reasons given by iOS developers for the insane size of iOS Apps:
