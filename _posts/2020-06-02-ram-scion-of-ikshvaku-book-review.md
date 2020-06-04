@@ -1,20 +1,18 @@
 ---
 layout: post
-title: Ram - Scion of Ikshvaku (by Amish Tripathi)
+title: Ram- Scion of Ikshvaku (by Amish Tripathi)
 subtitle: Book Review 
 tags: [bookreview]
 ---
 
 {: .box-note}
-***Ram-Scion of Ikshvaku:*** *Scion of Ikshvaku is a fantasy book by Indian author Amish Tripathi, released on 22 June 2015. It is based on Ram, the legendary Indian king regarded as an incarnation of Vishnu.*
+***Ram- Scion of Ikshvaku:*** *Scion of Ikshvaku is a fantasy book by Indian author Amish Tripathi, released on 22 June 2015. It is based on Ram, the legendary Indian king regarded as an incarnation of Vishnu.*
 
 Amish has been one of my favourite writers. I read the **Shiva Trilogy** when I was in class 10. Since then, I've been a fan. Amish is known to play with mythological characters in his fictional world which is the primary reason why his books become an instant hit.
 
 The **Ram Chandra Series** is his second work of fiction. I liked the approach he's taken to write this series. He has written three books till now: Ram- Scion of Ikshvaku, Sita- Warrior of Mithila and Raavan- Enemy of Aaryavarta. All these stories are from the perspective of the protagonist and they end at the same scene. His fourth book will be a convergence of all these books and the main story will proceed further. 
 
 <img src="/books/images/scion.jpg" alt="Ram-Scion of Ikshvaku"/>
-
-The book says that ***"the only true duty of a human is to understand one's destiny"***. 
 
 **Ayodhya** is weakened by the recent war which caused heavy casualties. The people of the Sapt Sindhu are slowly losing their wealth and moving towards destitution. They need a saviour. A saviour who will end all their misery and bring justice to them by defeating  the monster who is draining all of India's wealth. Who will it be? (**Hint:** ***RAM***)
 
