@@ -71,7 +71,7 @@ Let's say for example we'll create a page named "**index.html**" and then "**Com
 
 **Step 6:**
 
-We are done with the basic version of the website. The webiste gets automatically deployed after you "*commit changes*". For checking out your website on the internet, just go your browser and type:
+We are done with the basic version of the website. The website gets automatically deployed after you "*commit changes*". For checking out your website on the internet, just go your browser and type:
 
 **<italic>username</italic>.github.io**
 
