@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Ram- Scion of Ikshvaku (by Amish Tripathi)
+title: Ram - Scion of Ikshvaku (by Amish Tripathi)
 subtitle: Book Review 
 tags: [bookreview]
 ---
 
 {: .box-note}
-***Ram- Scion of Ikshvaku:*** *Scion of Ikshvaku is a fantasy book by Indian author Amish Tripathi, released on 22 June 2015. It is based on Ram, the legendary Indian king regarded as an incarnation of Vishnu.*
+***Ram - Scion of Ikshvaku:*** *Scion of Ikshvaku is a fantasy book by Indian author Amish Tripathi, released on 22 June 2015. It is based on Ram, the legendary Indian king regarded as an incarnation of Vishnu.*
 
 Amish has been one of my favourite writers. I read the **Shiva Trilogy** when I was in class 10. Since then, I've been a fan. Amish is known to play with mythological characters in his fictional world which is the primary reason why his books become an instant hit.
 
