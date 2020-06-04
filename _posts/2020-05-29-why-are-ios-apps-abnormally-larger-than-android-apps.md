@@ -34,7 +34,7 @@ Swift is a general-purpose, multi-paradigm, compiled programming language develo
 On the other hand, Android's language "Kotlin" integrates directly into the existing Andorid infrastructure and doesn't need these kind of support libraries.<br>
 The catch here is, Swift can help to easily add new features to apps while Kotlin cannot radically change the underlying infrastructure.
 
-- ***Repitition in App Codes:***<br>
+- ***Repetition in App Codes:***<br>
 A single team does work on the entire app. Different functionalities are given to different teams for implementation. Due to this, there is a likelihood of functionality or component repitition when these components are compiled. This unfortunately leads to image files and databases occuring at multiple places in the same app, and hence an increase in the app size.
 
 - ***Use of Multiple Assets:***<br> 
