@@ -24,7 +24,7 @@ title: Books
 					<img class="product__image" src="images/ad.png" alt="Angels and Demons" />
 					<h3 class="product__title">Angels and Demons</h3>
 					<span class="product__author highlight">Dan Brown</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Angels+and+Demons+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-06-03-angels-and-demons-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
