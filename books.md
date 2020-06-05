@@ -45,6 +45,14 @@ title: Books
 			</div>
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/sita.jpg" alt="Sita - Warrior of Mithila" />
+					<h3 class="product__title">Sita - Warrior of Mithila</h3>
+					<span class="product__author highlight">Amish Tripathi</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Sita+Warrior+of+Mithila+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/harrypotter.png" alt="Harry Potter and the Half-Blood Prince" />
 					<h3 class="product__title">Harry Potter and the Half-Blood Prince</h3>
 					<span class="product__author highlight">J. K. Rowling</span>
