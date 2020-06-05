@@ -48,7 +48,7 @@ title: Books
 					<img class="product__image" src="images/sita.jpg" alt="Sita - Warrior of Mithila" />
 					<h3 class="product__title">Sita - Warrior of Mithila</h3>
 					<span class="product__author highlight">Amish Tripathi</span>
-					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-06-04-sita-warrior-of-mithila-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-06-04-sita-warrior-of-mithila-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
