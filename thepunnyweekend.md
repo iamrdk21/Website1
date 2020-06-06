@@ -5,7 +5,7 @@ subtitle: I use to be a baby but I grew out of it
 use-site-title: true
 css: "/css/index.css"
 bigimg: 
-  - "/img/rainbow.jpg"
+  - "/img/rsz_thepunnyweekend.jpg"
 ---
 
 <div class="posts-list">
