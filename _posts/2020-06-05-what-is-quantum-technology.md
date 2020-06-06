@@ -16,7 +16,7 @@ bigimg:
 
 **Quantum Technology** in simple terms is a technology (not yet completely developed) that uses "quantum mechanics" to build powerful tools for processing information. China and USA are at the forefront in the race of harnessing this technology. 
 
-Now, talking about **Quantum Mechanics**, it is a field of science that deals with the behaviour of energy and matter at the atomic and subatomic level. Classical Newtonian Physics is not obeyed by these particles. Or in the words of <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a>, "they do not behave like clouds, or billiard balls, or weights on springs, or like anything that you have ever seen."
+Now, talking about **Quantum Mechanics**, it is a field of science that deals with the behaviour of energy and matter at the atomic and subatomic level. Classical Newtonian Physics is not obeyed by these particles. Or in the words of <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>, "they do not behave like clouds, or billiard balls, or weights on springs, or like anything that you have ever seen."
 
 Quantum Technology also incorporates the use of "quantum entanglement" and "quantum superposition".
 
