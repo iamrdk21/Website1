@@ -13,7 +13,7 @@ navbar-links:
   About Me: "aboutme"
   Books: "books"
   Sketches: "sketches"
-  Search: "Search"
+  <i class="fa fa-search"></i>: "Search"
 
 # --- Local development options ---
 
