@@ -77,6 +77,14 @@ title: Books
 			</div>
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/raavan.jpg" alt="Raavan - Enemy of Aryavrata" />
+					<h3 class="product__title">Raavan - Enemy of Aryavarta</h3>
+					<span class="product__author highlight">Amish Tripathi</span>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-06-08-raavan-enemy-of-aryavarta-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/Rich_Dad_Poor_Dad.png" alt="Rich Dad Poor Dad" />
 					<h3 class="product__title">Rich Dad Poor Dad</h3>
 					<span class="product__author highlight">Robert Kiyosaki & Sharon Lechter</span>
