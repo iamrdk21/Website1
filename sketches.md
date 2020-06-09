@@ -102,5 +102,12 @@ title: Sketches
 					<span class="product__author highlight">Cartoon Pencil Sketch</span>
 				</div>
 			</div>	
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/IMG-2845-min.JPG" alt="Kakashi Hatake" />
+					<h3 class="product__title">Kakashi Hatake</h3>
+					<span class="product__author highlight">Pen Sketch</span>
+				</div>
+			</div>
 		</section>
 	</div>
