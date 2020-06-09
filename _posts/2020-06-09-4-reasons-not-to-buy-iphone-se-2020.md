@@ -6,7 +6,7 @@ tags: [iPhone SE, 2020, technology, review]
 image: "/img/apple.jpg"
 share-img: "/img/apple.jpg"
 ---
-Being an **iPhone SE**(2016) user, I have always been a fan of **Apple**. I did not upgrade from my iPhone SE because nothing Apple has put out since has interested me. iPhone SE is a powerful little beast. My SE is running the latest iOS 13.5.1 with absolutely no issues (it's been 4 years!). I still use wired headphones. The size of my phone is perfect and I have no desire for a larger screen. I can reach the whole screen comfortably with one hand and it fits very well in the pockets. No camera bump either! I also don't want a huge phone strapped to my forearm while running. The overall build and design has been the best they've ever put.
+Being an **iPhone SE** (2016) user, I have always been a fan of **Apple**. I did not upgrade from my iPhone SE because nothing Apple has put out since has interested me. iPhone SE is a powerful little beast. My SE is running the latest iOS 13.5.1 with absolutely no issues (it's been 4 years!). I still use wired headphones. The size of my phone is perfect and I have no desire for a larger screen. I can reach the whole screen comfortably with one hand and it fits very well in the pockets. No camera bump either! I also don't want a huge phone strapped to my forearm while running. The overall build and design has been the best they've ever put.
 
 The design of the **iPhone SE** which resembles the **iPhone 5** and **iPhone 5S** had been the selling point for me. I don't know why but I really love the design. 
 
