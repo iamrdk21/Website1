@@ -17,6 +17,6 @@ The book starts with the adoption of Sita, followed by her upbringing, Gurukul, 
 {: .box-warning}
 ***Favourite quote from the book:*** *Don’t be afraid of the dark, my child. Light has a source. It can be snuffed out. But darkness has no source. It just exists. This darkness is a path to That, which has no source: God.*
 
-I felt this book to be a better read than <a href="https://www.inchoate.me/2020-06-02-ram-scion-of-ikshvaku-book-review/">**Scion of Ikshvaku**</a>. The character of Sita is very intriguing and keeps the reader fascinated throughout the book. The book is well paced and keeps the reader hooked until the end. The secret bond that Guru Vashishtha and Guru Vishwamitra share has not been revealed yet. The stage for **Raavan - Enemy of Aaryavarta** has been gracefully set by the author buy ending the book on an unprecedented cliffhanger.
+I felt this book to be a better read than <a href="https://www.inchoate.me/2020-06-02-ram-scion-of-ikshvaku-book-review/" target="_blank">**Scion of Ikshvaku**</a>. The character of Sita is very intriguing and keeps the reader fascinated throughout the book. The book is well paced and keeps the reader hooked until the end. The secret bond that Guru Vashishtha and Guru Vishwamitra share has not been revealed yet. The stage for **Raavan - Enemy of Aaryavarta** has been gracefully set by the author by ending the book on an unprecedented cliffhanger.
 
 It's an amazing read. Definitely worth your time!
