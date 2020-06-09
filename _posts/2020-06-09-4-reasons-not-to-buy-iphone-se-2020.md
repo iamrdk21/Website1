@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Reasons Not To Buy The New iPhone SE 2020
-subtitle: iPhone SE 2 review (India)
+subtitle: iPhone SE 2 Review (India)
 tags: [iPhone SE, 2020, technology, review]
 image: "/img/apple.jpg"
 share-img: "/img/apple.jpg"
@@ -42,4 +42,4 @@ Apple's decision to reuse the design to **iPhone 8** - which dates back to the s
 **iPhone SE 2020** comes with the industry leading A13 Bionic chipset. The major use of this chipset was for functionalities like triple-cameras, depth-sensing AR and Face ID. None of which is available in the new **iPhone SE**. A13 Bionic is years ahead of any other chip - just the body in which it is crammed is obsolete. People who buy the **iPhone SE** will hardly be able to make complete use of the A13 Bionic. And those who want to use the chipset to the fullest will shift to something that comes with the colour-accuracy of OLED displays, variety of camera options and maybe a bigger screen rather than buying **iPhone SE 2020**.
 
 - ***No Night Mode:***<br>
-Night Mode is a feature designed to capture clear, crisp photos even when lighting conditions are poor, such as at night. But in this case, when the lights go way down you'll probably want to use the flash on your **iPhone SE**. Apple should have offered **Night Mode** in the new **iPhone SE** but this feature is reserved for the iPhone 11 and iPhone 11 Pro Series.
+Night Mode is a feature designed to capture clear, crisp photos even when lighting conditions are poor, such as at night. But in this case, when the lights go way down you'll probably want to use the flash on your **iPhone SE**. Apple should have offered "Night Mode" in the new **iPhone SE** but this feature is reserved for the iPhone 11 and iPhone 11 Pro Series.
