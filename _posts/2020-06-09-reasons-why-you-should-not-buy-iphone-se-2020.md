@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Reasons Not To Buy The New iPhone SE 2020
+title: 4 Reasons Why You Should Not Buy The New iPhone SE 2020
 subtitle: iPhone SE 2 Review (India)
 tags: [iPhone SE, 2020, technology, review]
 image: "/img/apple.jpg"
