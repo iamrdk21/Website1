@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter Fleets is here!
+title: Twitter Fleets is Here!
 subtitle: Story-like feature by Twitter
 tags: [Twitter, Fleets, technology]
 image: "/img/twitter2.jpg"
