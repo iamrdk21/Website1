@@ -3,8 +3,8 @@ layout: post
 title: Twitter Fleets is here!
 subtitle: Story-like feature by Twitter
 tags: [Twitter, Fleets, technology]
-image: "/img/twitter.jpg"
-share-img: "/img/twitter.jpg"
+image: "/img/twitter2.jpg"
+share-img: "/img/twitter2.jpg"
 ---
 
 The concept of stories was first introduced by **WhatsApp** and quickly every social media platform followed suit.
@@ -23,7 +23,7 @@ The results of launching **Fleets** in Brazil ad Italy have been very positive. 
 
 Twitter is very happy and excited to launch **Fleets** in India. 
 
-“*India is important for Twitter since it is one of our largest and fastest-growing audience markets globally*”: Manish Maheshwari, the Managing Director of Twitter India, said this in a statement. 
+“*India is important for Twitter since it is one of our largest and fastest-growing audience markets globally,*” Manish Maheshwari, the Managing Director of Twitter India, said this in a statement. 
 
 “*We are excited to bring the Fleets experiment to India and make it one of the first three countries in the world to experience this new product. From the test in India, we’ll learn how adding a new mode of conversation changes the way Indians engage on Twitter. It’ll also be interesting to see if it further amplifies the diversity of usage by allowing people to share what they’re thinking in a way that is light-touch and light-hearted.*”
 
