@@ -13,4 +13,4 @@ When I thought of starting this blog, just like any other newbie my first take w
 
 So, that's how this expedition began.
 
-This blog will not have an audience-targeted niche. I'll write about various topics, most which will revolve around technology, politics, travel (as I've travelled a fair amount), rubik's cube, biking and well thing's which spike an interest in me. The unique thing about this blog would be the length of the posts I publish. No post would cross the "5 min read" mark. Well, one thing's for sure: **You'll not get bored reading the posts that are shared on this blog**.
+This blog will not have an audience-targeted niche. I'll write about various topics, most which will revolve around technology, politics, travel (as I've travelled a fair amount), rubik's cube, biking and well thing's which spike an interest in me. The unique thing about this blog would be the length of the posts I publish. No post would cross the "7 min read" mark. Well, one thing's for sure: **You'll not get bored reading the posts that are shared on this blog**.
