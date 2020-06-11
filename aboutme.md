@@ -41,6 +41,11 @@ share-img: "/img/pfp.jpg"
 </p>
 
 <p class="about-text">
+<span class="fa fa-code about-icon"></span>
+&nbsp;<i class="fab fa-github"></i> <a href="https://github.com/iamrdk21/iamrdk21.github.io" class="button github" style="color:#008AFF;" target="_blank" rel="noopener noreferrer"><span style="font-size: 14px">SOURCE CODE</span></a> : the entire source code of this website.
+</p>
+
+<p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
 &nbsp;If you like my blog, you can subscribe to the mailing list present in the footer for updates.<br>
 Let me know if you have any feedback. You can reach out to me using any of the social media links given in the footer (bottom of the page) or you could just drop me an e-mail <a target="_blank" href="mailto:rohan.kadam.5011@gmail.com">here</a>.
