@@ -12,7 +12,7 @@ tags: [Bhutan, travel]
 
 **Bhutan - Land of The Thunder Dragon**
 
-Landlocked between India and China, **Bhutan** which is also known as the ""**the happiest kingdom on Earth**", is a tiny treasure chest of alpine landscapes with unspoilt landscapes, fascinating architecture and of course its wonderful people. With one week in Bhutan, you can explore this country to the fullest, making memories that will last forever.
+Landlocked between India and China, **Bhutan** which is also known as the "**the happiest kingdom on Earth**", is a tiny treasure chest of alpine landscapes with unspoilt landscapes, fascinating architecture and of course its wonderful people. With one week in Bhutan, you can explore this country to the fullest, making memories that will last forever.
 
 In these 7 days in Bhutan, we visited the 3 major cities: Thimpu, Punakha and Paro. The capital city of Thimpu is known for its landmark Buddhist temples, Punakha is known for its picture perfect scenic views and Paro is known for its striking beauty that is sure to take your breath away.
 
