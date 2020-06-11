@@ -3,8 +3,8 @@ layout: post
 title: Twitter Fleets is Here!
 subtitle: Story-like feature by Twitter
 tags: [Twitter, Fleets, technology]
-image: "/img/twitter2.jpg"
-share-img: "/img/twitter2.jpg"
+image: "/img/twitter.jpg"
+share-img: "/img/twitter.jpg"
 ---
 
 The concept of stories was first introduced by **WhatsApp** and quickly every social media platform followed suit.
