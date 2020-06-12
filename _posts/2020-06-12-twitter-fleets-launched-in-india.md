@@ -19,7 +19,7 @@ The name "**Fleet**" has been given with the idea to start a new coversation fro
 
 <img src="/img/twitter1.jpg" alt="Fleets">
 
-The results of launching **Fleets** in Brazil ad Italy have been very positive. People have been able to share their thoughts more freely. People who don’t usually tweet have started more conversations and sending both **Fleets** and tweets. When people send a **Fleet**, they often share a number of thoughts rapidly.        
+The results of launching **Fleets** in Brazil and Italy have been very positive. People have been able to share their thoughts more freely. People who don’t usually tweet have started more conversations and sending both **Fleets** and tweets. When people send a **Fleet**, they often share a number of thoughts rapidly.        
 
 **Twitter** is very happy and excited to launch **Fleets** in India. 
 
