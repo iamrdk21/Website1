@@ -13,7 +13,7 @@ The concept of stories was first introduced by **WhatsApp** and quickly every so
 
 **Fleets** is very similar to Instagram stories. It is a self - disappearing tweet that will vanish in 24 hours and will have no retweets, likes or public comments. The feature was launched with the aim of having "*conversations in new ways with less pressure and more control*". India is among the first markets after Brazil and Italy to have this new feature.
 
-The name "**Fleet**" has been given with the idea to start a new coverstion from our fleeting thoughts. Similar to tweets, *Fleets* are text-first, but you can add photos and videos. If you want to reply to a Fleet, the further conversation will take place in your DMs. If you have open DMs, anybody can react to your Fleets. If you have protected tweets, only your followers will be able to do so.
+The name "**Fleet**" has been given with the idea to start a new coversation from our fleeting thoughts. Similar to tweets, *Fleets* are text-first, but you can add photos and videos. If you want to reply to a Fleet, the further conversation will take place in your DMs. If you have open DMs, anybody can react to your Fleets. If you have protected tweets, only your followers will be able to do so.
 
 **Fleets** will appear on the screen just like Instagram stories. Your followers can see your **Fleets** at the top of their timeline or by clicking on your profile photo.
 
