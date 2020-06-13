@@ -7,7 +7,7 @@ image: "/img/twitter.jpg"
 share-img: "/img/twitter.jpg"
 ---
 
-The concept of stories was first introduced by **WhatsApp** and quickly every social media platform followed suit.
+The concept of stories was first introduced by **Snapchat** and quickly every social media platform followed suit.
 
 **Twitter** is here with it's own version of stories, "**Fleets**". **Fleets** was launched on 9 June 2020 in India. This feature is basically for those people who are "*uncomfortable with public tweets*".
 
