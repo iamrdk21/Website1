@@ -36,9 +36,9 @@ When trained on face images, it learns features such as eyes, nose, mouth, ears,
 
 AI-doctored videos were previously used for creating fun, educational videos. However, today the darker side of such doctored videos has become much more prominent. Shortly after its release, the deepfake program caused a flood of fake videos starring celebrities on social media platforms. The AI-powered technologies have made it possible not only to fake the face but also the voice of virtually anyone.
 
-In politics too, these can be used as weapons by oppposition parties. Fake sentiments can be created amongst the masses against the ruling party. And the worst part of Deepfake is when people start believing and nobody is able to detect whether it is fake or not. This can badly damange the reputation of the targeted person.
+In politics too, these can be used as weapons by opposition parties. Fake sentiments can be created amongst the masses against the ruling party. And the worst part of Deepfake is when people start believing and nobody is able to detect whether it is fake or not. This can badly damage the reputation of the targeted person.
 
-While social media platforms are trying their best to curtail the spread of false information, the threat of fake news triggered by **Deepfake Technology** has become a serious concern, especially as US prepares for its presedential elections. US lawmakers have flagged deepfakes as a threat to national security.
+While social media platforms are trying their best to curtail the spread of false information, the threat of fake news triggered by **Deepfake Technology** has become a serious concern, especially as US prepares for its presidential elections. US lawmakers have flagged deepfakes as a threat to national security.
 
 <img src="/img/deepfake4.jpeg" alt="Deepfake4">
 
