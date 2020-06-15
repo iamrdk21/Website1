@@ -6,7 +6,7 @@ tags: [bookreview]
 ---
 
 {: .box-note}
-***The God Delusion:*** *The God Delusion is a 2006 book by English biologist Richard Dawkins, a professorial fellow at New College, Oxford, and former holder of the Charles Simonyi Chair for the Public Understanding of Science at the University of Oxford. *
+***The God Delusion:*** *The God Delusion is a 2006 book by English biologist Richard Dawkins, a professorial fellow at New College, Oxford, and former holder of the Charles Simonyi Chair for the Public Understanding of Science at the University of Oxford.*
 
 A leading scientist - and the world's most famous atheist - asserts the irrationality of belief in God, and the dreadful harm that religion has inflicted on society, from the **Crusades** to **9/11**.
 
