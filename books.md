@@ -32,7 +32,7 @@ title: Books
 					<img class="product__image" src="images/god_delusion.png" alt="The God Delusion" />
 					<h3 class="product__title">The God Delusion</h3>
 					<span class="product__author highlight">Richard Dawkins</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+God+Delusion+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-06-15-the-god-delusion-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
