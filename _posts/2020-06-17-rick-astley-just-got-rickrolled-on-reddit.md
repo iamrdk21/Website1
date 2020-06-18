@@ -16,9 +16,10 @@ For people who've been around on the internet for a while might recognize "*rick
 
 <img src="/img/reddit1.jpg" alt="Rick Astley">
 
-Reacting to this post, the comments were flodded with fans praising the pop star's *Wayback Wednesday* photo. But the best reaction was given by **u/theMalleableDuck**. <a href="https://www.reddit.com/r/pics/comments/haucpf/ive_found_a_few_funny_memories_during_lockdown/fv505w1/">"*I think I might cry!!! It's actually you. I met you at a backstage event when I was 12,*"</a> the message read, including a hyperlink to what would presumably be a photo of a young fan posing with Rick.
+Reacting to this post, the comments were flodded with fans praising the pop star's *Wayback Wednesday* photo. But the best reaction was given by **u/theMalleableDuck**. 
+<a href="https://www.reddit.com/r/pics/comments/haucpf/ive_found_a_few_funny_memories_during_lockdown/fv505w1/">"*I think I might cry!!! It's actually you. I met you at a backstage event when I was 12,*"</a> the message read, including a hyperlink to what would presumably be a photo of a young fan posing with Rick.
 
-<im src="/img/reddit2.jpg" alt="Rickrolled">
+<img src="/img/reddit2.jpg" alt="Rickrolled">
 
 The link led, of course, to the video of "<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Never Gonna Give You Up</a>" and the singer reacted to the Redditor's witty comment with a clapping emoji. Well played.
 
