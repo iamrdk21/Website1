@@ -16,11 +16,10 @@ For people who've been around on the internet for a while might recognize "*rick
 
 <img src="/img/reddit1.jpg" alt="Rick Astley">
 
-Reacting to this post, the comments were flodded with fans praising the pop star's *Wayback Wednesday* photo. But the best reaction was given by **u/theMalleableDuck**. 
-<a href="https://www.reddit.com/r/pics/comments/haucpf/ive_found_a_few_funny_memories_during_lockdown/fv505w1/">"*I think I might cry!!! It's actually you. I met you at a backstage event when I was 12,*"</a> the message read, including a hyperlink to what would presumably be a photo of a young fan posing with Rick.
+Reacting to this post, the comments were flooded with fans praising the pop star's *Wayback Wednesday* photo. But the best reaction was given by **u/theMalleableDuck**.<br><a href="https://www.reddit.com/r/pics/comments/haucpf/ive_found_a_few_funny_memories_during_lockdown/fv505w1/">"*I think I might cry!!! It's actually you. I met you at a backstage event when I was 12,*"</a> the message read, including a hyperlink to what would presumably be a photo of a young fan posing with Rick.
 
 <img src="/img/reddit2.jpg" alt="Rickrolled">
 
 The link led, of course, to the video of "<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Never Gonna Give You Up</a>" and the singer reacted to the Redditor's witty comment with a clapping emoji. Well played.
 
-2020 has given us nothin but a non-stop stream of bad news. An amusing and humorous moment like this could not have come at a better time. And as for **Rick Astley**, I don't think he's going to be clicking any more Reddit links anytime soon.
+2020 has given us nothing but a non-stop stream of bad news. An amusing and humorous moment like this could not have come at a better time. And as for **Rick Astley**, I don't think he's going to be clicking any more Reddit links anytime soon.
