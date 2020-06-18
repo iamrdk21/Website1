@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Somebody Just Rickrolled "Rick Astley" On Reddit
+title: Somebody Just Rickrolled Rick Astley On Reddit
 subtitle: Wholesome
 tags: [Reddit, rickrolled, technology]
 image: "/img/reddit.jpg"
