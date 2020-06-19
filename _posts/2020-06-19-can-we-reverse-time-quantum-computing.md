@@ -14,7 +14,7 @@ The basics of **Quantum Computing** have been covered <a href="https://www.incho
 
 The world in which we live is based and run on laws of physics. The gears of physics provide the momentum for the world to function smoothly. But, the gears of physics actually work just as smoothly in reverse. 
 
-Maybe ***time travel*** is possible after all?
+Maybe ***Time Travel*** is possible after all?
 
 <img src="/img/time2.jpg" alt="Time Travel">
 
@@ -30,7 +30,7 @@ If you observe carefully, this is the only law of physics that mentions the word
 
 To put it simply: you could zoom in on a game of pool, and a single collision between any two balls won't look weird if you happened to see it in reverse. On the other hand, if you watched balls roll out of pockets and reform the starting pyramid, it would be a sobering experience. That is the **second law**.
 
-In the quantum realm, things get a bit different. As we focus in on the tiny gears of reality - in this case, solitary electrons - loopholes appear. Electrons, if we consider, are defined by the space they occupy. We can only give a range of locations where a given particle is likely to be, rather than its definite location. The details of this characteristic of electrons can be properly summed up using the <a herf="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation#:~:text=The%20Schr%C3%B6dinger%20equation%20is%20a,of%20a%20quantum%2Dmechanical%20system.&text=The%20concept%20of%20a%20wave,each%20spatial%20position%2C%20and%20time." target="_blank">Schrodinger's Equation</a>. This equation represents the possibilities of an electron's characteristics as a wave.
+In the quantum realm, things get a bit different. As we focus in on the tiny gears of reality - in this case, solitary electrons - loopholes appear. Electrons, if we consider, are defined by the space they occupy. We can only give a range of locations where a given particle is likely to be, rather than its definite location. The details of this characteristic of electrons can be properly summed up using the <a herf="https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation#:~:text=The%20Schr%C3%B6dinger%20equation%20is%20a,the%20development%20of%20the%20subject." target="_blank">Schrodinger's Equation</a>. This equation represents the possibilities of an electron's characteristics as a wave.
 
 If we imagine the same game of pool, as previously discussed, according to the Schrodinger's equation the balls are somewhere on the pool table moving at a certain speed. But, in quantum terms, the ball is everywhere at a bunch of speeds.
 
