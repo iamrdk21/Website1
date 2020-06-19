@@ -31,3 +31,5 @@ Another buzzword: **Quantum Computing**
 It is the use of Quantum Computers to perform quantum computations using superposition and entanglement. A Quantum Computer does not use the traditional binary bits. It uses quantum bits, or qbits for processing information. The special thing about qbits is that, these can take values 0 or 1, or both simultaneously. This flexiblity helps the quantum computer perform many calculations simultaneously. Fully functional Quantum Computers are not yet developed. Though, early prototypes do exist.
 
 When put to use, Quantum Technology would be able to do wonders. Fully functioning Quantum Computers will have exponentially greater calculation rates which will help us in innumerable ways. That being said, such a powerful machine will definitely be strong enough to break the vaults of any security system in the world and crack all kinds of encryption. This will be a major worry for institutions handling sensitive and highly confidential data.
+
+Further reading: <a href="https://www.inchoate.me/2020-06-19-can-we-reverse-time-quantum-computing/">Can We Reverse Time Using Quantum Computing?</a>
