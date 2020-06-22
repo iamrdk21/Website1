@@ -6,11 +6,11 @@ tags: [worldmotorcycleday, bike, gixxer]
 ---
 
 {: .box-note}
-***World Motorcycle Day:*** *June 21 is celebrated globally as World Motorcycle Day, a day for celebrating motorcycles, motorcycling and everything related to motorcycles. June 21 is also the longest day of the year, called the Summer Solstice, and what better day to spend outdoors, riding your motorcycle? *
+***World Motorcycle Day:*** *June 21 is celebrated globally as World Motorcycle Day, a day for celebrating motorcycles, motorcycling and everything related to motorcycles. June 21 is also the longest day of the year, called the Summer Solstice, and what better day to spend outdoors, riding your motorcycle?*
 
 ***Just a small appreciation post for one of my most treasured belongings.***
 
-Not gonna blabber on about my bike. Everybody loves their bikes. Owning a bike gives a sense of freedom. Freedom to go anywhere. Anytime. Bike riding is an exhilarating experience. You get a sharper sense of observation, hearing, processing and analyzing the situation around you. If you are a passionate bike rider, you don't just merely exist, you start "*living*".
+Not gonna blabber on about my bike. Everybody loves their bike. Owning a bike gives a sense of freedom. Freedom to go anywhere. Anytime. Bike riding is an exhilarating experience. You get a sharper sense of observation, hearing, processing and analyzing the situation around you. If you are a passionate bike rider, you don't just merely exist, you "*live*".
 
 <img src="/img/bike1.JPG" alt="Sunset Bike"/>
 
@@ -30,6 +30,6 @@ Not gonna blabber on about my bike. Everybody loves their bikes. Owning a bike g
 
 - The only way to see the sunset, is to ride into it.
 
-<img src="/img/bike3.jpg" alt="Sunset and Bike">
+<img src="/img/bike3.jpeg" alt="Sunset and Bike">
 
 ***Keep Calm and Ride On.***
