@@ -4,7 +4,7 @@ title: The Impact of H-1B Visa Suspension
 subtitle: India may benefit 
 bigimg: 
   - "/img/h1b.jpg"
-tags: [trump, us, h1b, visa, suspension, india, technology]
+tags: [Trump, US, H1B, visa, suspension, India, technology]
 ---
 
 {: .box-note}
