@@ -88,7 +88,7 @@ title: Books
 					<img class="product__image" src="images/Rich_Dad_Poor_Dad.png" alt="Rich Dad Poor Dad" />
 					<h3 class="product__title">Rich Dad Poor Dad</h3>
 					<span class="product__author highlight">Robert Kiyosaki & Sharon Lechter</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Rich+Dad+Poor+Dad+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-06-28-rich-dad-poor-dad-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
