@@ -72,7 +72,7 @@ title: Books
 					<img class="product__image" src="images/associate.png" alt="The Associate" />
 					<h3 class="product__title">The Associate</h3>
 					<span class="product__author highlight">John Grisham</span>
-					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-07-02-the-associate-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-07-02-the-associate-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
