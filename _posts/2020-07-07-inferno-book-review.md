@@ -20,7 +20,7 @@ People are critical about Dan's writing. They find his writing *formulaic*. Well
 
 Even though he refrained from his regular formula, all the elements which make his books immensely popular are still present. As always, he has combined action with mystery, history and science in an amazing way and created a thriller that you just cannot put down. 
 
-Dan Borwn's writing is cinematographic. The greatest about any of his books is the setting in which the entire action takes place. This time the action takes place in three breathtaking cities: Florence, Venice and Istanbul. He really captures the atmosphere of the place he's describing and makes you feel as if you are a part of the adventure. The ending of the book is also unusual. I cannot explain the entire ending without spoiling the book but yeah, the ending is quite interesting.
+Dan Brown's writing is cinematographic. The greatest thing about any of his books is the setting in which the entire action takes place. This time the action takes place in three breathtaking cities: Florence, Venice and Istanbul. He really captures the atmosphere of the place he's describing and makes you feel as if you are a part of the adventure. The ending of the book is also unusual. I cannot explain the entire ending without spoiling the book but yeah, the ending is quite interesting.
 
 {: .box-warning}
 ***Favourite quote from the book:*** *The darkest places in hell are reserved for those who maintain their silence at times of crisis.*
