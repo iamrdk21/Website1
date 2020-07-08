@@ -96,7 +96,7 @@ title: Books
 					<img class="product__image" src="images/inferno.png" alt="Inferno" />
 					<h3 class="product__title">Inferno</h3>
 					<span class="product__author highlight">Dan Brown</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Inferno+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-07-07-inferno-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
