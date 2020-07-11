@@ -102,7 +102,7 @@ Once you enter your passcode, you'll get the consent message. Click on **Install
 
 There you go. Now you have your iOS 14 public beta profile installed.
 
-**Step 8:**
+**Step 9:**
 
 Head over to *Software Update* in your *General* Settings.
 
