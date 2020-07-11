@@ -118,6 +118,6 @@ Once you are done with the installation, you'll notice a new *Feedback* applicat
 
 I hope you guys got iOS 14 up and running on your mobile device. If you have any issues, drop it in the comments or reach out to me using any of the social media handles given in the footer.
 
-<img src="/img/iOS14_21.jpg" alt="iOS 14 at a glance">
+<img src="/img/iOS14_21.JPG" alt="iOS 14 at a glance">
 
 ***Cheers!***
