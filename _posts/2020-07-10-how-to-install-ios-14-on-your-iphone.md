@@ -24,13 +24,13 @@ Open *Safari*.
 
 **Step 2:**
 
-Head over to *https://beta.apple.com/sp/betaprogram/*.  
+Head over to *<a href="https://beta.apple.com/sp/betaprogram/">https://beta.apple.com/sp/betaprogram/</a>*.  
 
 <img src="/img/iOS14_2.PNG" alt="Apple Beta Website">
 
 **Step 3:**
 
-On the same page, you'll find a button saying "*Sign up". Click on it to sign up to the Apple Beta Software program.  
+On the same page, you'll find a button saying "*Sign up*". Click on it to sign up to the Apple Beta Software program.  
 
 <img src="/img/iOS14_3.jpg" alt="Beta Program Sign up">
 
@@ -46,7 +46,7 @@ You'll be brought to a page with an "*Agreement*" that you need to agree to.
 
 <img src="/img/iOS14_5.PNG" alt="Agreement">
 
-Go all the way down on the webpage and accept the agreement to proceed with the installation process.
+Go all the way down and accept the agreement to proceed with the installation process.
 
 <img src="/img/iOS14_6.jpg" alt="Accept">
 
@@ -66,7 +66,7 @@ As we are doing this for iPhones, make sure you have the *iOS* tab selected.
 
 <img src="/img/iOS14_9.jpg" alt="Enroll">
 
-Before proceeding further, I'd like you to backup your data. In this installation, it is highly unlikely that you'll lose data but it is still a possibility. So it's better to have a backup. (*I did not backup my data before installation but it's still intact*)
+Before proceeding further, I'd like you to backup your data. In this installation, it is highly unlikely that you'll lose data but it is still a possibility. So it's better to have a backup. (*I did not backup my data before installation, but, the data is still intact*)
 
 Alright. Moving further down on the webpage you'll stumble upon the "*Install Profile*" section.
 
@@ -104,7 +104,7 @@ There you go. Now you have your iOS 14 public beta profile installed.
 
 **Step 8:**
 
-Head over to *Software Update* in your *General* Setting.
+Head over to *Software Update* in your *General* Settings.
 
 <img src="/img/iOS14_18.jpg" alt="Software Update">
 
@@ -117,3 +117,5 @@ Once you are done with the installation, you'll notice a new *Feedback* applicat
 <img src="/img/iOS14_20.jpg" alt="Feedback">
 
 I hope you guys got iOS 14 up and running on your mobile device. If you have any issues, drop it in the comments or reach out to me using any of the social media handles given in the footer.
+
+***Cheers!***
