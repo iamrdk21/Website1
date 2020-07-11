@@ -90,7 +90,7 @@ Click on "*Install*".
 
 <img src="/img/iOS14_14.jpg" alt="Install Profile">
 
-Enter you passcode.
+Enter your passcode.
 
 <img src="/img/iOS14_15.PNG" alt="Passcode">
 
