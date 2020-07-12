@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Inchoate Intellectual
-subtitle: RDK
+subtitle: Travel
 use-site-title: true
 css: "/css/index.css"
 bigimg: 
