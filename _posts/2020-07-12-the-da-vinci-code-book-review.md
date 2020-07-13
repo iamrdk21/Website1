@@ -8,9 +8,9 @@ tags: [bookreview]
 {: .box-note}
 ***The Da Vinci Code:*** *The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is Brown's second novel to include the character Robert Langdon: the first was his 2000 novel Angels & Demons.*
 
-While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.
+While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci, clues visible for all to see and yet ingeniously disguised by the painter.
 
-Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.
+Even more startling, the late curator was involved in the Priory of Sion, a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci, and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle, while avoiding the faceless adversary who shadows their every move, the explosive, ancient truth will be lost forever.
 
 The Da Vinci Code heralds the arrival of a new breed of lightning-paced, intelligent thriller…surprising at every twist, absorbing at every turn, and in the end, utterly unpredictable…right up to its astonishing conclusion.
 
