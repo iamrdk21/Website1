@@ -3,8 +3,8 @@ layout: post
 title: Your GitHub Repository Is Likely To Last A Millenium
 subtitle: Stored Deep In An Arctic Mountain
 tags: [GitHub, technology]
-image: "/img/github.jpg"
-share-img: "/img/github.jpg"
+image: "/img/githublogo.png"
+share-img: "/img/githublogo.png"
 ---
 
 {: .box-note}
