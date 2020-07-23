@@ -14,7 +14,7 @@ share-img: "/img/twitter.jpg"
 
 According to the official statement from **Twitter**, the hack that breached the accounts of some of its most high-profile users targeted 130 people. Also, the hackers were able to reset the passwords of atleast 45 of those accounts. In a <a href="https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html">blog post</a> on Saturday, *Twitter* said that for up to eight of these accounts the attackers also accessed the account's information usign the "*Your Twitter Data*" tool. Twitter is trying to contact the owners of these accounts, and also, none of these accounts were verified.
 
-In the same blog post, Twitter said:
+In the same blog post, Twitter said:<br>
 *We're embarrassed, we're disappointed, and more than anything, we're sorry. We know that we must work to regain your trust, and we will support all efforts to bring the perpetrators to justice*
 
 This incident highlighted a major defect with a service that millions of people have come to rely on.
@@ -45,7 +45,7 @@ After this incident, *Twitter* said that it has taken "*significant steps" to li
 
 Three years back, a *Twitter* employee who wasn't happy with Donald Trump apparently <a href="https://techcrunch.com/2017/11/29/meet-the-man-who-deactivated-trumps-twitter-account/">deactivated his account</a> for 11 minutes.
 
-Last year, two former *Twitter* employees were charged with spying on user data by US prosecutors.
+Last year, two former *Twitter* employees were <a href="https://www.washingtonpost.com/national-security/former-twitter-employees-charged-with-spying-for-saudi-arabia-by-digging-into-the-accounts-of-kingdom-critics/2019/11/06/2e9593da-00a0-11ea-8bab-0fc209e065a8_story.html">charged with spying</a> on user data by US prosecutors.
 
 These incidents raise questions regarding *Twitter's* security system, and whether it could trust it's employees with sensitive information about it's users.
 
