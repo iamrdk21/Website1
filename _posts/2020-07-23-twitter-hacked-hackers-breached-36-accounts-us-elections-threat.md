@@ -3,7 +3,7 @@ layout: post
 title: Twitter Hacked!
 subtitle: How did this happen?
 bigimg: 
-  - "/img/twitterhackedhome.jpg"
+  - "/img/twitterhackedhome2.jpg"
 tags: [Twitter, hacked, cybersecurity, technology]
 image: "/img/twitter.jpg"
 share-img: "/img/twitter.jpg"
