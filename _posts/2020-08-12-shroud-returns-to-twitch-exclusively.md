@@ -10,7 +10,7 @@ share-img: "/img/twitch.png"
 {: .box-note}
 ***SHROUD:*** *Michael Grzesiek, professionally known by his online alias shroud, is a Canadian streamer and former Counter-Strike: Global Offensive professional.*
 
-**Michael Grzesiek**, one of the most influential live-streamers on the internet, has just announced his exclusive return to Twitch: the platform that made him famous, after a detour to Mixer (<a href="https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features">It was a video game live streaming platform</a>) that possibly fetched him a lump sum $10 million when the site went dark and his contract got paid out.
+**Michael Grzesiek**, one of the most influential live-streamers on the internet, has just announced his exclusive return to Twitch: the platform that made him famous, after a detour to Mixer (<a href="https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features" target="_blank">It was a video game live streaming platform</a>) that possibly fetched him a lump sum $10 million when the site went dark and his contract got paid out.
 
 This is a really big deal. *Shroud* was by far the greatest name on Twitch (before the Mixer acquisition), and after he left the platform last October after amassing around 7 million followers, it was an indication of talent moving away to other platforms like YouTube, Facebook Gaming, and well, Mixer. After 10 months, and after a pandemic, the live-streaming landscape has shifted. Again.
 
@@ -26,4 +26,4 @@ But in June 2020, Microsoft announced that it would be shutting down Mixer as it
 
 His return to Twitch reunites him with the platform where he first made his name as a streamer. "*There’s nothing better than a homecoming, so we’re thrilled to welcome Shroud and his incredible community back to Twitch,*” said Michael Aragon, Senior VP Content at Twitch. “*Our mission is to bring people together every day, and we look forward to seeing the FPS legend back in action, exclusively on Twitch.*" 
 
-*Twitch* signing **Micheal** to an exclusive deal just means one thing: they do not want him to leave again. Just like how *YouTube* signed an exclusive live-streaming deal with **PewDiePie**.
+*Twitch* signing **Shroud** to an exclusive deal just means one thing: they do not want him to leave again. Just like how *YouTube* signed an exclusive live-streaming deal with **PewDiePie**.
