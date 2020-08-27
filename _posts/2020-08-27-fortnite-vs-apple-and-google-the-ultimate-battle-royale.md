@@ -52,7 +52,7 @@ Epic did not stop at this.
 
 Along with the lawsuit, it released a parody video that showcases Apple's famous 1984 ad. This ad, released back in 1983, promoted the launch of Macintosh and was aimed at IBM. To put it simply, Epic just wanted to convey "*You have become the very thing you swore to destroy*" to Apple.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/euiSHuaw6Q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe height="315" src="https://www.youtube.com/embed/euiSHuaw6Q4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 100%"></iframe>
 
 The suit also reads:
 
