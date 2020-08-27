@@ -5,12 +5,10 @@ subtitle: A battle royale between three epically large companies.
 bigimg: 
   - "/img/fortnitehome.jpg"
 tags: [Apple, Google, android, iOS, fortnite, Epic Games, monopoly, technology]
-image: "/img/fortnitevsapplegoogle.jpg"
-share-img: "/img/fortnitevsapplegoogle.jpg"
 ---
 
 {: .box-note}
-***Fortnite is not an unfamiliar name for our generation. It is a behemoth in the video gaming industry. Now like every other company, Epic Games (the creator of Fortnite) also has competitors. But, instead of competing with 99 small opponents, Epic Games has decided to fight with two really, really big ones.***
+***Fortnite is not an unfamiliar name for our generation. It is a behemoth in the video gaming industry. Now like every other company, Epic Games (the creator of Fortnite) also has competitors. But, instead of competing with 99 small opponents, Epic Games has decided to fight with two really, really big ones!***
 
 ***THE STORY***
 
@@ -45,7 +43,7 @@ Epic just wants Apple to roll back it's anti-competitive pracises and allow "fai
 Apple's reply to Epic Games read as follows:
 
 >Epic Games took the unfortunate step of violating the App Store guidelines that are applied equally to every developer and designed to keep the store safe for our users. As a result their Fortnite app has been removed from the store. Epic enabled a feature in its app which was not reviewed or approved by Apple, and they did so with the express intent of violating the App Store guidelines regarding in-app payments that apply to every developer who sells digital goods or services.
-Epic has had apps on the App Store for a decade, and has benefited from the App Store ecosystem - including the tools, testing, and distribution Apple provides to all developers. Epic agreed to the App Store terms and guidelines freely and we're glad they've built such a successful business on the App Store. The fact that their business interests now lead them to push for a special arrangement does not change the fact that these guidelines create a level playing field for all developers and make the store safe for all users. We will make every effort to work with Epic to resolve these violations so they can return Fortnite to the App Store.
+>Epic has had apps on the App Store for a decade, and has benefited from the App Store ecosystem - including the tools, testing, and distribution Apple provides to all developers. Epic agreed to the App Store terms and guidelines freely and we're glad they've built such a successful business on the App Store. The fact that their business interests now lead them to push for a special arrangement does not change the fact that these guidelines create a level playing field for all developers and make the store safe for all users. We will make every effort to work with Epic to resolve these violations so they can return Fortnite to the App Store.
 
 Epic did not stop at this.
 
