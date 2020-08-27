@@ -5,8 +5,8 @@ subtitle: A battle royale between three epically large companies.
 bigimg: 
   - "/img/fortnitehome.jpg"
 tags: [Apple, Google, android, iOS, fortnite, Epic Games, monopoly, technology]
-image: "/img/fortnitevsapplegoogle.jpg"
-share-img: "/img/fortnitevsapplegoogle.jpg"
+image: "/img/fortnitelogo.jpg"
+share-img: "/img/fortnitelogo.jpg"
 ---
 
 {: .box-note}
