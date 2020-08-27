@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fortnite Vs. Apple & Google : The Ultimate Battle Royale
+title: Fortnite Vs. Apple & Google - The Ultimate Battle Royale
 subtitle: A battle royale between three epically large companies.
 bigimg: 
   - "/img/fortnitehome.jpg"
