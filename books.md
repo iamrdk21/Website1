@@ -144,7 +144,7 @@ title: Books
 					<img class="product__image" src="images/whiteout.png" alt="Whiteout" />
 					<h3 class="product__title">Whiteout</h3>
 					<span class="product__author highlight">Ken Follett</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Whiteout+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-11-08-ken-follett-whiteout-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -152,7 +152,7 @@ title: Books
 					<img class="product__image" src="images/DaVinci.png" alt="The Da Vinci Code" />
 					<h3 class="product__title">The Da Vinci Code</h3>
 					<span class="product__author highlight">Dan Brown</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Da+Vinci+Code+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.inchoate.me/2020-07-12-the-da-vinci-code-book-review/')"><i class="fa fa-comments"></i><span class="action__text">Review</span></button>
 				</div>
 			</div>
 		</section>
